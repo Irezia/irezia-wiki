@@ -11,7 +11,7 @@ C'est ici que tout les aspects du serveur vous seront expliqué le plus claireme
 
 Pour commencer, vous pouvez avoir un aperçu des différents aspects du serveur avec le menu disponnible à gauche.
 
-Vous pouvez également cliquer sur les boutons ci-dessous pour avoir plus d'informations.
+Vous pouvez <span style="color:blue">également cliquer</span> sur les boutons ci-dessous pour avoir plus d'informations.
 
 
 

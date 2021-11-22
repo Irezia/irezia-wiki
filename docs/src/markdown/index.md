@@ -7,7 +7,7 @@
     y'a pleins de truc mais je sais pas quoi/ou mettre
 
 Bienvenue sur le wiki d'Irezia fait par les meilleurs.
-C'est ici que tout les aspects du serveur vous seront expliqué le plus clairement possible pour vous rendre la vie sur le serveur la plus facile possible.
+C'est ici que tout les aspects du serveur vous seront expliqués le plus clairement possible pour vous rendre la vie sur le serveur la plus facile possible.
 
 Pour commencer, vous pouvez avoir un aperçu des différents aspects du serveur avec le menu disponnible à gauche.
 

@@ -14,6 +14,14 @@ Pour commencer, vous pouvez avoir un aperçu des différents aspects du serveur 
 Vous pouvez <span style="color:blue">également cliquer</span> sur les boutons ci-dessous pour avoir plus d'informations.
 
 
+``` yaml
+theme:
+  features:
+    - content.code.annotate # (1)
+```
+
+1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
+    text__, images, ... basically anything that can be expressed in Markdown.
 
 
 
@@ -22,3 +30,4 @@ Vous pouvez <span style="color:blue">également cliquer</span> sur les boutons c
 [<span style="font-size:25px">:minecraft-enderpearl:</span> Quêtes ](Quetes/Introduction){: .md-button .md-button--primary }              
 [<span style="font-size:25px">:minecraft-grass:</span> Collections ](#){: .md-button .md-button--primary }              
 [<span style="font-size:25px">:minecraft-mossy-cobblestone:</span> Donjons ](#){: .md-button .md-button--primary }
+

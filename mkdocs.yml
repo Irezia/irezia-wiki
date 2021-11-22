@@ -20,6 +20,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.instant
+    - content.code.annotate
 nav:
   - 'Home':
     - 'Bienvenue': index.md
@@ -50,6 +51,8 @@ nav:
   - 'Enchantements': enchant.md
   - "Optimiser Minecraft": optimiser.md
 markdown_extensions:
+  - pymdownx.superfences:
+  - pymdownx.snippets:
   - markdown.extensions.toc:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
       permalink: ""

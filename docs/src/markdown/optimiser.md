@@ -31,7 +31,7 @@ Cliquez sur le bouton de téléchargement
 === "Minecraft Launcher"
     1. Téléchargez et installez Fabric Loader pour le launcher que vous préférez. 
     2. Ouvrez votre dossier Minecraft, [tutoriel est ici](https://www.howtogeek.com/207484/how-to-find-your-minecraft-saved-games-folder/)
-    3. Téléchargez la dernière version [MultiMC](ttps://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) de Fabulously Optimized  
+    3. Téléchargez la dernière version [MultiMC](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) de Fabulously Optimized  
     4. Ouvrez le fichier zip, allez dans Fabulously Optimized x.x.x > minecraft 
     5. Copiez les dossiers config et mods dans votre dossier .minecraft, si demandé - remplacer les fichiers    
     6. Lancez le profil Fabric  

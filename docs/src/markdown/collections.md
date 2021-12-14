@@ -25,7 +25,7 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ![](img/collections/IR-COLLECTIONS-menu-agriculteur.jpg)
 
-
+### Nom + XP
 | Nom               | XP   |  | Nom                | XP   |
 | :---------------: | :--: |  | :---------------:  | :--: |
 | `Carotte`         | 14   |  | `Canne à sucre`    | 14   |
@@ -36,6 +36,19 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 | `Melon`           | 19   |  | `Cactus`           | 15   |
 | `Nether Wart`     | 19   |  | `Kelp`             | 15   |
 | `Herbe aquatique` | 19   |  | `Vigne`            | 15   |
+
+### Ou juste le nom & on fait un autre truc pour chaque skills avec un tableau de l'xp etc, ça revient au même
+
+| Nom               |  | Nom                |
+| :---------------: |  | :---------------:  |
+| `Carotte`         |  | `Canne à sucre`    | 
+| `Patate`          |  | `Cacao`            | 
+| `Blé`             |  | `Champi rouge`     |
+| `Graine de blé`   |  | `Cornichon`        |
+| `Citrouille`      |  | `Pomme`            | 
+| `Melon`           |  | `Cactus`           | 
+| `Nether Wart`     |  | `Kelp`             | 
+| `Herbe aquatique` |  | `Vigne`            |
 
 ## BOUCHER
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="16" height="16"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <path d="  M 3,10  L 3,9  L 2,9  L 2,8  L 1,8  L 1,10  Z  " style="fill:rgb(22, 126, 134); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 5,10  L 6,10  L 6,8  L 5,8  Z  " style="fill:rgb(22, 126, 134); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,10  L 8,9  L 7,9  L 7,10  Z  " style="fill:rgb(22, 126, 134); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,10  L 10,10  L 10,8  L 9,8  Z  " style="fill:rgb(22, 126, 134); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,10  L 12,10  L 12,8  L 11,8  Z  " style="fill:rgb(22, 126, 134); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,10  L 15,10  L 15,9  L 14,9  Z  " style="fill:rgb(22, 126, 134); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 2,9  L 3,9  L 3,6  L 2,6  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 4,10  L 5,10  L 5,8  L 4,8  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 6,7  L 5,7  L 5,8  L 6,8  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 7,8  L 7,9  L 8,9  L 8,8  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,8  L 10,8  L 10,6  L 9,6  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,7  L 11,8  L 12,8  L 12,7  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,9  L 12,9  L 12,10  L 13,10  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,9  L 15,9  L 15,8  L 14,8  Z  " style="fill:rgb(17, 155, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 4,8  L 5,8  L 5,6  L 4,6  Z  " style="fill:rgb(20, 180, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,5  L 7,5  L 7,8  L 8,8  Z  " style="fill:rgb(20, 180, 133); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,9  L 13,9  L 13,6  L 12,6  Z  " style="fill:rgb(20, 180, 133); fill-opacity:1.000; stroke:none;" />
+</svg>

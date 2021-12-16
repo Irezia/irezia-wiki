@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="32" height="32"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <path d="  M 3,9  L 4,9  L 4,8  L 3,8  Z  " style="fill:rgb(177, 159, 104); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,27  L 27,28  L 28,28  L 28,27  Z  " style="fill:rgb(177, 159, 104); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 4,9  L 3,9  L 3,11  L 4,11  Z  " style="fill:rgb(147, 114, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 4,8  L 4,9  L 6,9  L 6,8  Z  " style="fill:rgb(147, 114, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 7,8  L 7,9  L 9,9  L 9,8  Z  " style="fill:rgb(147, 114, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,28  L 23,27  L 21,27  L 21,28  Z  " style="fill:rgb(147, 114, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,28  L 27,27  L 24,27  L 24,28  Z  " style="fill:rgb(147, 114, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,23  L 28,24  L 29,24  L 29,23  Z  " style="fill:rgb(147, 114, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,25  L 28,25  L 28,27  L 29,27  Z  " style="fill:rgb(147, 114, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 4,11  L 3,11  L 3,27  L 4,27  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 7,9  L 7,8  L 6,8  L 6,9  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,27  L 8,28  L 9,28  L 9,27  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,9  L 28,8  L 9,8  L 9,9  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,28  L 21,27  L 12,27  L 12,28  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,28  L 24,28  L 24,27  L 23,27  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,24  L 28,25  L 29,25  L 29,24  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,28  L 29,27  L 28,27  L 28,28  Z  " style="fill:rgb(120, 68, 15); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 3,27  L 3,28  L 8,28  L 8,27  Z  " style="fill:rgb(99, 60, 21); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,27  L 9,28  L 12,28  L 12,27  Z  " style="fill:rgb(99, 60, 21); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,23  L 29,8  L 28,8  L 28,23  Z  " style="fill:rgb(99, 60, 21); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,29  L 29,28  L 3,28  L 3,29  Z  " style="fill:rgb(38, 28, 9); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 4,9  L 4,11  L 5,11  L 5,10  L 6,10  L 6,9  Z  " style="fill:rgb(150, 138, 120); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 4,25  L 4,27  L 6,27  L 6,26  L 5,26  L 5,25  Z  " style="fill:rgb(150, 138, 120); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,9  L 26,9  L 26,10  L 27,10  L 27,11  L 28,11  Z  " style="fill:rgb(150, 138, 120); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,26  L 26,26  L 26,27  L 28,27  L 28,25  L 27,25  Z  " style="fill:rgb(150, 138, 120); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 5,25  L 5,11  L 4,11  L 4,25  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 5,10  L 5,11  L 6,11  L 6,10  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 6,25  L 5,25  L 5,26  L 6,26  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 6,9  L 6,10  L 26,10  L 26,9  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,27  L 26,26  L 6,26  L 6,27  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,11  L 27,11  L 27,10  L 26,10  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,26  L 27,26  L 27,25  L 26,25  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,25  L 28,25  L 28,11  L 27,11  Z  " style="fill:rgb(158, 150, 139); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 5,13  L 6,13  L 6,11  L 5,11  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 5,23  L 5,25  L 6,25  L 6,23  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,11  L 8,10  L 6,10  L 6,11  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 6,26  L 8,26  L 8,25  L 6,25  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,11  L 26,11  L 26,10  L 24,10  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,26  L 26,26  L 26,25  L 24,25  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,13  L 27,11  L 26,11  L 26,13  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,23  L 26,23  L 26,25  L 27,25  Z  " style="fill:rgb(179, 174, 159); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,25  L 26,23  L 27,23  L 27,13  L 26,13  L 26,11  L 24,11  L 24,10  L 8,10  L 8,11  L 6,11  L 6,13  L 5,13  L 5,23  L 6,23  L 6,25  L 8,25  L 8,26  L 24,26  L 24,25  Z  " style="fill:rgb(200, 197, 189); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,7  L 11,8  L 12,8  L 12,7  Z  " style="fill:rgb(99, 99, 99); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,6  L 12,6  L 12,7  L 13,7  Z  " style="fill:rgb(99, 99, 99); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,5  L 13,6  L 14,6  L 14,5  Z  " style="fill:rgb(99, 99, 99); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,5  L 15,4  L 14,4  L 14,5  Z  " style="fill:rgb(99, 99, 99); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,4  L 16,3  L 15,3  L 15,4  Z  " style="fill:rgb(99, 99, 99); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,8  L 13,7  L 12,7  L 12,8  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,6  L 13,6  L 13,7  L 14,7  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,6  L 15,6  L 15,5  L 14,5  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,5  L 16,4  L 15,4  L 15,5  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,3  L 16,3  L 16,4  L 17,4  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 18,4  L 17,4  L 17,5  L 18,5  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,6  L 19,5  L 18,5  L 18,6  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,6  L 19,6  L 19,7  L 20,7  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,7  L 20,7  L 20,8  L 21,8  Z  " style="fill:rgb(53, 53, 53); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,4  L 16,5  L 17,5  L 17,4  Z  " style="fill:rgb(38, 38, 38); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,6  L 18,6  L 18,5  L 17,5  Z  " style="fill:rgb(38, 38, 38); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,6  L 18,6  L 18,7  L 19,7  Z  " style="fill:rgb(38, 38, 38); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,8  L 20,7  L 19,7  L 19,8  Z  " style="fill:rgb(38, 38, 38); fill-opacity:1.000; stroke:none;" />
+</svg>

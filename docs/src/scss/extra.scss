@@ -1,17 +1,11 @@
 @import "material-color";
 @import "material-shadows";
-
-
 @import "utilities/break";
 @import "utilities/convert";
 @import "utilities/color_tools";
-
 @import "config";
-
 @import "palette/colors";
-
 @import "general";
-
 @import "extensions/admonition";
 @import "extensions/arithmatex";
 @import "extensions/critic";
@@ -24,7 +18,5 @@
 @import "extensions/tables";
 @import "extensions/tasklist";
 @import "extensions/toc";
-
 @import "js/mermaid";
-
 @import "material";

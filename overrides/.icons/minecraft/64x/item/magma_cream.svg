@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="64" height="64"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <path d="  M 9,28  L 8,28  L 8,34  L 9,34  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,24  L 9,28  L 10,28  L 10,24  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,22  L 10,22  L 10,24  L 11,24  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,20  L 11,20  L 11,22  L 12,22  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,20  L 13,18  L 12,18  L 12,20  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,17  L 13,18  L 14,18  L 14,17  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,16  L 14,17  L 15,17  L 15,16  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,15  L 15,16  L 16,16  L 16,15  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,15  L 17,15  L 17,14  L 16,14  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 18,13  L 17,13  L 17,14  L 18,14  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 18,13  L 20,13  L 20,12  L 18,12  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,12  L 22,11  L 20,11  L 20,12  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,11  L 24,10  L 22,10  L 22,11  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,10  L 28,9  L 24,9  L 24,10  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,9  L 36,8  L 28,8  L 28,9  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,10  L 38,9  L 36,9  L 36,10  Z  " style="fill:rgb(71, 122, 66); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,36  L 9,36  L 9,34  L 8,34  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,40  L 10,40  L 10,36  L 9,36  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,40  L 10,40  L 10,42  L 11,42  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,44  L 12,42  L 11,42  L 11,44  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,46  L 13,46  L 13,44  L 12,44  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,46  L 13,46  L 13,47  L 14,47  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,47  L 14,48  L 15,48  L 15,47  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,49  L 16,48  L 15,48  L 15,49  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,10  L 40,9  L 38,9  L 38,10  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,11  L 42,10  L 40,10  L 40,11  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,11  L 42,12  L 44,12  L 44,11  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,12  L 44,12  L 44,13  L 46,13  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,14  L 47,13  L 46,13  L 46,14  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,15  L 48,15  L 48,14  L 47,14  Z  " style="fill:rgb(52, 83, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,29  L 10,29  L 10,28  L 9,28  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,36  L 10,36  L 10,35  L 9,35  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,25  L 11,24  L 10,24  L 10,25  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,22  L 11,22  L 11,23  L 12,23  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,21  L 13,21  L 13,20  L 12,20  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,18  L 13,18  L 13,19  L 14,19  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,18  L 15,17  L 14,17  L 14,18  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 18,14  L 17,14  L 17,15  L 18,15  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,14  L 19,13  L 18,13  L 18,14  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,12  L 20,12  L 20,13  L 21,13  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,12  L 23,12  L 23,11  L 22,11  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,11  L 25,10  L 24,10  L 24,11  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,10  L 29,10  L 29,9  L 28,9  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,9  L 35,10  L 36,10  L 36,9  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,10  L 39,10  L 39,11  L 40,11  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,11  L 41,11  L 41,12  L 42,12  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,13  L 44,12  L 43,12  L 43,13  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,14  L 46,13  L 45,13  L 45,14  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,14  L 46,14  L 46,15  L 47,15  Z  " style="fill:rgb(139, 170, 65); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 10,30  L 10,29  L 9,29  L 9,30  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,35  L 10,35  L 10,34  L 9,34  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,25  L 10,25  L 10,26  L 11,26  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,40  L 11,39  L 10,39  L 10,40  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,24  L 12,24  L 12,23  L 11,23  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,41  L 11,42  L 12,42  L 12,41  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,21  L 12,21  L 12,22  L 13,22  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,43  L 12,44  L 13,44  L 13,43  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,19  L 13,20  L 14,20  L 14,19  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,17  L 16,16  L 15,16  L 15,17  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,15  L 16,15  L 16,16  L 17,16  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,14  L 20,14  L 20,13  L 19,13  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,12  L 21,13  L 22,13  L 22,12  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,11  L 23,12  L 24,12  L 24,11  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,10  L 25,11  L 26,11  L 26,10  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,10  L 30,9  L 29,9  L 29,10  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,9  L 34,9  L 34,10  L 35,10  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,10  L 38,10  L 38,11  L 39,11  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,12  L 41,12  L 41,11  L 40,11  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,12  L 42,12  L 42,13  L 43,13  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,13  L 44,13  L 44,14  L 45,14  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,14  L 45,15  L 46,15  L 46,14  Z  " style="fill:rgb(164, 198, 74); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 10,30  L 9,30  L 9,31  L 10,31  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,32  L 9,33  L 11,33  L 11,32  L 12,32  L 12,31  L 10,31  L 10,32  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,26  L 10,26  L 10,27  L 11,27  L 11,28  L 12,28  L 12,27  L 13,27  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,35  L 10,35  L 10,36  L 11,36  L 11,37  L 12,37  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 10,37  L 10,38  L 11,38  L 11,37  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,34  L 12,33  L 11,33  L 11,34  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,41  L 12,40  L 13,40  L 13,39  L 11,39  L 11,41  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,23  L 13,23  L 13,22  L 12,22  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,25  L 13,24  L 12,24  L 12,25  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,34  L 12,34  L 12,35  L 13,35  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,38  L 14,36  L 13,36  L 13,37  L 12,37  L 12,38  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,41  L 12,42  L 13,42  L 13,41  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,23  L 13,23  L 13,24  L 14,24  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,26  L 14,25  L 13,25  L 13,26  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,41  L 14,40  L 13,40  L 13,41  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,42  L 16,42  L 16,41  L 14,41  L 14,42  L 13,42  L 13,43  L 15,43  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,19  L 14,19  L 14,20  L 15,20  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,18  L 23,18  L 23,17  L 21,17  L 21,16  L 19,16  L 19,17  L 18,17  L 18,16  L 17,16  L 17,17  L 16,17  L 16,18  L 17,18  L 17,19  L 16,19  L 16,20  L 15,20  L 15,22  L 14,22  L 14,23  L 16,23  L 16,24  L 17,24  L 17,25  L 15,25  L 15,26  L 14,26  L 14,27  L 15,27  L 15,28  L 16,28  L 16,27  L 19,27  L 19,26  L 20,26  L 20,28  L 21,28  L 21,29  L 23,29  L 23,27  L 21,27  L 21,26  L 23,26  L 23,25  L 24,25  L 24,23  L 23,23  L 23,24  L 21,24  L 21,25  L 19,25  L 19,24  L 18,24  L 18,23  L 17,23  L 17,20  L 18,20  L 18,19  L 20,19  L 20,18  L 22,18  L 22,19  L 23,19  L 23,20  L 24,20  Z  M 18,25  L 18,26  L 17,26  L 17,25  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,24  L 14,25  L 15,25  L 15,24  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,45  L 15,44  L 14,44  L 14,45  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,18  L 15,18  L 15,19  L 16,19  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,44  L 16,43  L 15,43  L 15,44  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,42  L 16,43  L 18,43  L 18,41  L 17,41  L 17,42  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,16  L 19,15  L 18,15  L 18,16  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,38  L 18,38  L 18,39  L 19,39  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,45  L 19,43  L 18,43  L 18,45  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,37  L 19,38  L 20,38  L 20,37  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,40  L 21,40  L 21,39  L 19,39  L 19,40  L 20,40  L 20,41  L 22,41  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,42  L 19,42  L 19,43  L 20,43  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,45  L 19,46  L 20,46  L 20,45  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,15  L 21,14  L 20,14  L 20,15  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,29  L 20,29  L 20,30  L 21,30  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,37  L 21,36  L 20,36  L 20,37  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,45  L 21,45  L 21,44  L 22,44  L 22,42  L 21,42  L 21,43  L 20,43  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,14  L 22,14  L 22,13  L 21,13  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,16  L 22,15  L 21,15  L 21,16  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,37  L 21,37  L 21,39  L 22,39  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,15  L 25,14  L 24,14  L 24,13  L 23,13  L 23,14  L 22,14  L 22,15  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,29  L 23,30  L 25,30  L 25,28  L 24,28  L 24,29  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,39  L 23,40  L 24,40  L 24,39  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,43  L 23,44  L 24,44  L 24,43  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,13  L 26,13  L 26,11  L 25,11  L 25,12  L 24,12  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,18  L 25,18  L 25,17  L 24,17  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,23  L 25,21  L 26,21  L 26,19  L 25,19  L 25,20  L 24,20  L 24,23  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,31  L 24,32  L 25,32  L 25,31  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,40  L 24,41  L 25,41  L 25,40  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,46  L 24,46  L 24,47  L 25,47  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,30  L 25,30  L 25,31  L 26,31  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,32  L 25,33  L 26,33  L 26,35  L 27,35  L 27,34  L 29,34  L 29,33  L 27,33  L 27,32  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,39  L 26,38  L 25,38  L 25,39  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,42  L 26,41  L 25,41  L 25,42  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,13  L 26,14  L 27,14  L 27,13  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,22  L 27,21  L 26,21  L 26,22  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,36  L 26,36  L 26,37  L 27,37  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,40  L 29,40  L 29,38  L 27,38  L 27,39  L 26,39  L 26,40  L 27,40  L 27,41  L 28,41  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,43  L 27,42  L 26,42  L 26,43  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,12  L 28,12  L 28,11  L 27,11  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,22  L 29,21  L 28,21  L 28,22  L 27,22  L 27,23  L 29,23  L 29,24  L 30,24  L 30,22  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,35  L 27,35  L 27,36  L 28,36  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,11  L 29,10  L 28,10  L 28,11  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,10  L 33,10  L 33,11  L 32,11  L 32,10  L 31,10  L 31,11  L 29,11  L 29,12  L 30,12  L 30,13  L 31,13  L 31,12  L 32,12  L 32,13  L 33,13  L 33,12  L 34,12  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,42  L 29,43  L 30,43  L 30,42  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,34  L 30,35  L 31,35  L 31,34  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,14  L 32,14  L 32,13  L 31,13  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,26  L 34,25  L 33,25  L 33,24  L 32,24  L 32,23  L 31,23  L 31,25  L 32,25  L 32,26  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,38  L 32,38  L 32,37  L 31,37  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,40  L 33,39  L 31,39  L 31,40  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,9  L 32,9  L 32,10  L 33,10  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,23  L 33,23  L 33,24  L 34,24  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,38  L 33,39  L 34,39  L 34,38  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,28  L 35,28  L 35,27  L 34,27  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,12  L 36,12  L 36,11  L 35,11  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,10  L 36,11  L 37,11  L 37,10  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,14  L 38,14  L 38,11  L 37,11  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,22  L 39,21  L 38,21  L 38,20  L 37,20  L 37,22  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,28  L 38,28  L 38,27  L 37,27  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,20  L 39,20  L 39,19  L 38,19  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,12  L 39,12  L 39,13  L 40,13  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,14  L 39,15  L 40,15  L 40,14  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,22  L 39,22  L 39,23  L 40,23  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,26  L 39,27  L 40,27  L 40,26  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,28  L 39,28  L 39,29  L 40,29  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,14  L 42,13  L 40,13  L 40,14  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,18  L 40,19  L 41,19  L 41,18  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,23  L 40,23  L 40,24  L 41,24  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,26  L 41,25  L 40,25  L 40,26  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,27  L 40,27  L 40,28  L 41,28  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,31  L 40,32  L 41,32  L 41,31  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,16  L 41,17  L 42,17  L 42,16  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,25  L 43,24  L 41,24  L 41,25  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,26  L 41,27  L 43,27  L 43,26  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,14  L 42,14  L 42,16  L 43,16  L 43,15  L 44,15  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,18  L 44,17  L 43,17  L 43,18  L 42,18  L 42,19  L 43,19  L 43,20  L 44,20  L 44,19  L 45,19  L 45,18  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,20  L 42,21  L 43,21  L 43,20  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,31  L 42,31  L 42,32  L 43,32  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,15  L 44,16  L 45,16  L 45,15  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,18  L 46,16  L 45,16  L 45,18  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,22  L 47,22  L 47,21  L 46,21  Z  " style="fill:rgb(244, 233, 78); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,32  L 10,32  L 10,31  L 9,31  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 9,33  L 9,34  L 10,34  L 10,35  L 12,35  L 12,34  L 11,34  L 11,33  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,37  L 13,36  L 14,36  L 14,38  L 12,38  L 12,39  L 13,39  L 13,40  L 14,40  L 14,41  L 16,41  L 16,42  L 17,42  L 17,41  L 18,41  L 18,43  L 19,43  L 19,41  L 20,41  L 20,40  L 19,40  L 19,39  L 18,39  L 18,38  L 19,38  L 19,37  L 20,37  L 20,36  L 21,36  L 21,37  L 22,37  L 22,39  L 24,39  L 24,40  L 25,40  L 25,41  L 27,41  L 27,40  L 26,40  L 26,39  L 27,39  L 27,38  L 28,38  L 28,37  L 30,37  L 30,36  L 29,36  L 29,35  L 28,35  L 28,36  L 27,36  L 27,35  L 26,35  L 26,33  L 25,33  L 25,32  L 24,32  L 24,30  L 23,30  L 23,29  L 21,29  L 21,28  L 20,28  L 20,26  L 19,26  L 19,27  L 16,27  L 16,28  L 15,28  L 15,27  L 14,27  L 14,26  L 13,26  L 13,27  L 12,27  L 12,28  L 11,28  L 11,27  L 10,27  L 10,31  L 12,31  L 12,32  L 11,32  L 11,33  L 12,33  L 12,34  L 13,34  L 13,35  L 12,35  L 12,37  Z  M 26,39  L 25,39  L 25,38  L 26,38  Z  M 20,30  L 20,29  L 21,29  L 21,30  Z  M 27,36  L 27,37  L 26,37  L 26,36  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 10,37  L 11,37  L 11,36  L 10,36  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,25  L 12,25  L 12,24  L 11,24  L 11,26  L 13,26  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 11,37  L 11,38  L 12,38  L 12,37  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,24  L 13,24  L 13,23  L 12,23  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,42  L 12,42  L 12,43  L 13,43  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,22  L 15,22  L 15,20  L 13,20  L 13,23  L 14,23  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,24  L 13,25  L 14,25  L 14,24  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,41  L 13,42  L 14,42  L 14,41  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,18  L 14,18  L 14,19  L 15,19  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,24  L 15,24  L 15,25  L 17,25  L 17,24  L 16,24  L 16,23  L 14,23  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,25  L 14,26  L 15,26  L 15,25  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,43  L 14,43  L 14,44  L 15,44  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,17  L 15,17  L 15,18  L 16,18  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,19  L 15,20  L 16,20  L 16,19  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,42  L 15,43  L 16,43  L 16,42  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,17  L 17,17  L 17,16  L 16,16  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,19  L 17,18  L 16,18  L 16,19  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,15  L 17,16  L 18,16  L 18,15  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 18,25  L 17,25  L 17,26  L 18,26  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,46  L 18,46  L 18,44  L 17,44  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,16  L 21,15  L 20,15  L 20,14  L 18,14  L 18,15  L 19,15  L 19,16  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,16  L 18,16  L 18,17  L 19,17  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,38  L 19,39  L 20,39  L 20,38  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,46  L 19,47  L 20,47  L 20,46  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,13  L 20,13  L 20,14  L 21,14  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,37  L 20,37  L 20,38  L 21,38  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,42  L 20,43  L 21,43  L 21,42  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,14  L 21,14  L 21,15  L 22,15  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,25  L 36,26  L 37,26  L 37,25  L 38,25  L 38,27  L 39,27  L 39,26  L 40,26  L 40,25  L 41,25  L 41,24  L 40,24  L 40,23  L 39,23  L 39,22  L 37,22  L 37,20  L 38,20  L 38,19  L 40,19  L 40,18  L 43,18  L 43,17  L 45,17  L 45,16  L 44,16  L 44,15  L 43,15  L 43,16  L 42,16  L 42,14  L 40,14  L 40,13  L 39,13  L 39,11  L 38,11  L 38,14  L 37,14  L 37,11  L 36,11  L 36,10  L 34,10  L 34,12  L 33,12  L 33,13  L 32,13  L 32,14  L 31,14  L 31,13  L 30,13  L 30,12  L 29,12  L 29,11  L 28,11  L 28,10  L 26,10  L 26,13  L 24,13  L 24,14  L 25,14  L 25,15  L 22,15  L 22,16  L 21,16  L 21,17  L 23,17  L 23,18  L 24,18  L 24,20  L 25,20  L 25,19  L 26,19  L 26,21  L 27,21  L 27,22  L 28,22  L 28,21  L 29,21  L 29,22  L 30,22  L 30,24  L 31,24  L 31,23  L 32,23  L 32,24  L 33,24  L 33,25  Z  M 36,11  L 36,12  L 35,12  L 35,11  Z  M 40,14  L 40,15  L 39,15  L 39,14  Z  M 27,12  L 27,11  L 28,11  L 28,12  Z  M 25,18  L 24,18  L 24,17  L 25,17  Z  M 42,16  L 42,17  L 41,17  L 41,16  Z  M 26,14  L 26,13  L 27,13  L 27,14  Z  M 33,24  L 33,23  L 34,23  L 34,24  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,26  L 29,23  L 27,23  L 27,22  L 26,22  L 26,21  L 25,21  L 25,23  L 24,23  L 24,25  L 23,25  L 23,26  L 21,26  L 21,27  L 23,27  L 23,29  L 24,29  L 24,28  L 26,28  L 26,27  L 27,27  L 27,26  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,46  L 21,47  L 23,47  L 23,46  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,12  L 22,14  L 23,14  L 23,13  L 24,13  L 24,12  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,42  L 22,42  L 22,43  L 23,43  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,44  L 23,44  L 23,45  L 24,45  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,12  L 25,11  L 24,11  L 24,12  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,44  L 26,45  L 27,45  L 27,44  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,34  L 27,34  L 27,35  L 28,35  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,41  L 27,41  L 27,42  L 28,42  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,44  L 28,43  L 27,43  L 27,44  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,41  L 29,40  L 28,40  L 28,41  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,46  L 29,45  L 28,45  L 28,46  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,10  L 32,9  L 30,9  L 30,10  L 29,10  L 29,11  L 31,11  L 31,10  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,40  L 30,40  L 30,39  L 29,39  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,42  L 30,41  L 29,41  L 29,42  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,36  L 31,35  L 30,35  L 30,36  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,41  L 31,40  L 30,40  L 30,41  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,44  L 31,44  L 31,43  L 30,43  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,13  L 32,13  L 32,12  L 31,12  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,44  L 31,44  L 31,45  L 32,45  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,10  L 32,10  L 32,11  L 33,11  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,9  L 33,9  L 33,10  L 34,10  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,11  L 38,10  L 37,10  L 37,11  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,27  L 39,27  L 39,28  L 40,28  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,26  L 40,27  L 41,27  L 41,26  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,31  L 41,30  L 40,30  L 40,31  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,19  L 41,19  L 41,21  L 42,21  L 42,20  L 43,20  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,23  L 41,23  L 41,24  L 42,24  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,26  L 44,25  L 41,25  L 41,26  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,30  L 42,29  L 41,29  L 41,30  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,22  L 43,21  L 42,21  L 42,22  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,32  L 43,33  L 44,33  L 44,32  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,20  L 44,21  L 45,21  L 45,20  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,22  L 44,22  L 44,23  L 45,23  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,27  L 44,28  L 45,28  L 45,27  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,29  L 44,29  L 44,30  L 45,30  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,19  L 47,20  L 48,20  L 48,19  Z  " style="fill:rgb(198, 220, 87); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,39  L 12,38  L 10,38  L 10,39  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,40  L 12,41  L 13,41  L 13,40  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,43  L 13,43  L 13,45  L 14,45  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,47  L 15,47  L 15,45  L 14,45  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,44  L 15,44  L 15,45  L 16,45  L 16,46  L 17,46  L 17,44  L 18,44  L 18,43  L 16,43  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,45  L 18,45  L 18,47  L 19,47  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,41  L 19,42  L 22,42  L 22,41  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,45  L 20,45  L 20,43  L 19,43  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,38  L 20,38  L 20,39  L 21,39  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,44  L 21,45  L 20,45  L 20,46  L 22,46  L 22,45  L 23,45  L 23,44  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,48  L 21,47  L 20,47  L 20,48  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,40  L 23,39  L 21,39  L 21,40  L 22,40  L 22,41  L 24,41  L 24,40  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,31  L 25,30  L 24,30  L 24,31  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,42  L 25,42  L 25,41  L 24,41  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,45  L 24,46  L 25,46  L 25,45  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,26  L 27,26  L 27,27  L 26,27  L 26,28  L 25,28  L 25,29  L 27,29  L 27,28  L 28,28  L 28,27  L 29,27  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,31  L 25,31  L 25,32  L 27,32  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,44  L 27,43  L 26,43  L 26,42  L 25,42  L 25,44  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,46  L 25,46  L 25,47  L 26,47  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,42  L 27,42  L 27,41  L 26,41  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,29  L 27,30  L 28,30  L 28,29  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,43  L 28,44  L 29,44  L 29,41  L 28,41  L 28,42  L 27,42  L 27,43  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,44  L 27,44  L 27,45  L 28,45  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,28  L 28,29  L 29,29  L 29,28  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,32  L 28,32  L 28,33  L 29,33  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,25  L 31,24  L 29,24  L 29,25  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,34  L 29,34  L 29,36  L 30,36  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,37  L 29,38  L 30,38  L 30,37  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,40  L 29,41  L 30,41  L 30,40  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,29  L 31,29  L 31,27  L 30,27  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,36  L 30,37  L 31,37  L 31,36  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,39  L 30,40  L 31,40  L 31,39  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,40  L 31,41  L 30,41  L 30,42  L 32,42  L 32,43  L 33,43  L 33,41  L 32,41  L 32,40  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,25  L 31,26  L 32,26  L 32,25  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,39  L 32,38  L 31,38  L 31,39  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,27  L 32,27  L 32,28  L 33,28  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,37  L 32,37  L 32,38  L 33,38  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,27  L 34,27  L 34,26  L 33,26  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,41  L 34,40  L 33,40  L 33,41  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,25  L 34,26  L 35,26  L 35,27  L 36,27  L 36,29  L 37,29  L 37,27  L 38,27  L 38,25  L 37,25  L 37,26  L 36,26  L 36,25  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,40  L 35,40  L 35,39  L 34,39  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,42  L 34,43  L 35,43  L 35,42  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,42  L 37,42  L 37,41  L 36,41  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,29  L 37,30  L 38,30  L 38,29  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,22  L 40,20  L 41,20  L 41,19  L 39,19  L 39,20  L 38,20  L 38,21  L 39,21  L 39,22  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,12  L 40,11  L 39,11  L 39,12  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,12  L 40,13  L 42,13  L 42,12  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,22  L 40,23  L 42,23  L 42,22  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,18  L 41,18  L 41,19  L 42,19  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,14  L 44,13  L 42,13  L 42,14  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,24  L 43,24  L 43,23  L 42,23  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,27  L 42,30  L 43,30  L 43,28  L 44,28  L 44,26  L 43,26  L 43,27  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,20  L 43,21  L 44,21  L 44,20  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,24  L 43,24  L 43,25  L 44,25  L 44,26  L 45,26  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,32  L 45,31  L 44,31  L 44,30  L 43,30  L 43,32  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,14  L 44,14  L 44,15  L 45,15  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,17  L 44,18  L 45,18  L 45,17  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,19  L 44,19  L 44,20  L 45,20  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,20  L 45,20  L 45,21  L 44,21  L 44,22  L 45,22  L 45,23  L 46,23  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,15  L 45,15  L 45,16  L 46,16  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,18  L 45,19  L 46,19  L 46,18  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,29  L 46,27  L 45,27  L 45,29  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,16  L 46,16  L 46,17  L 47,17  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,20  L 47,20  L 47,19  L 46,19  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,24  L 47,24  L 47,23  L 46,23  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,26  L 47,25  L 46,25  L 46,26  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,18  L 47,19  L 48,19  L 48,18  Z  " style="fill:rgb(230, 203, 47); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,45  L 13,45  L 13,46  L 14,46  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,48  L 16,47  L 15,47  L 15,48  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 16,49  L 17,49  L 17,48  L 16,48  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,48  L 18,48  L 18,47  L 17,47  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 18,50  L 19,50  L 19,49  L 18,49  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,49  L 20,49  L 20,48  L 19,48  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,51  L 21,50  L 22,50  L 22,49  L 20,49  L 20,50  L 19,50  L 19,51  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,48  L 22,47  L 21,47  L 21,48  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,51  L 21,52  L 22,52  L 22,51  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,48  L 22,48  L 22,49  L 23,49  L 23,50  L 25,50  L 25,49  L 24,49  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,29  L 25,29  L 25,30  L 26,30  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,51  L 29,50  L 28,50  L 28,49  L 27,49  L 27,48  L 28,48  L 28,47  L 26,47  L 26,48  L 25,48  L 25,49  L 26,49  L 26,50  L 27,50  L 27,51  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,50  L 25,50  L 25,51  L 26,51  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,52  L 27,51  L 26,51  L 26,52  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,31  L 28,31  L 28,30  L 27,30  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,32  L 27,33  L 28,33  L 28,32  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,35  L 29,34  L 28,34  L 28,35  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,38  L 29,37  L 28,37  L 28,38  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,48  L 28,48  L 28,49  L 30,49  L 30,47  L 32,47  L 32,46  L 29,46  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,31  L 30,31  L 30,29  L 29,29  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,28  L 35,28  L 35,30  L 34,30  L 34,31  L 30,31  L 30,33  L 29,33  L 29,34  L 31,34  L 31,33  L 32,33  L 32,32  L 35,32  L 35,33  L 36,33  L 36,32  L 39,32  L 39,31  L 38,31  L 38,30  L 37,30  L 37,29  L 36,29  Z  M 37,31  L 36,31  L 36,30  L 37,30  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,51  L 30,51  L 30,52  L 31,52  L 31,53  L 32,53  L 32,52  L 34,52  L 34,51  L 32,51  L 32,50  L 31,50  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,27  L 31,30  L 32,30  L 32,27  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,36  L 33,36  L 33,35  L 31,35  L 31,37  L 32,37  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,49  L 32,48  L 31,48  L 31,49  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,34  L 34,33  L 32,33  L 32,34  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,44  L 34,42  L 33,42  L 33,43  L 32,43  L 32,44  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,46  L 33,46  L 33,45  L 32,45  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,48  L 33,48  L 33,47  L 32,47  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,50  L 35,50  L 35,49  L 36,49  L 36,48  L 34,48  L 34,49  L 32,49  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,28  L 33,29  L 34,29  L 34,28  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,38  L 34,39  L 36,39  L 36,38  L 35,38  L 35,37  L 34,37  L 34,36  L 33,36  L 33,38  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,46  L 33,47  L 34,47  L 34,46  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,27  L 35,27  L 35,26  L 34,26  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,37  L 36,37  L 36,34  L 34,34  L 34,35  L 35,35  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,42  L 35,42  L 35,41  L 34,41  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,46  L 38,46  L 38,45  L 40,45  L 40,44  L 38,44  L 38,42  L 37,42  L 37,45  L 35,45  L 35,44  L 34,44  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,52  L 34,53  L 35,53  L 35,52  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,41  L 38,40  L 39,40  L 39,39  L 38,39  L 38,37  L 37,37  L 37,39  L 36,39  L 36,40  L 35,40  L 35,41  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,43  L 35,44  L 36,44  L 36,43  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,50  L 37,49  L 36,49  L 36,50  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,53  L 38,53  L 38,52  L 36,52  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,27  L 38,28  L 37,28  L 37,29  L 39,29  L 39,27  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,36  L 38,35  L 37,35  L 37,36  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,49  L 38,49  L 38,47  L 37,47  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,34  L 39,36  L 42,36  L 42,35  L 43,35  L 43,34  L 42,34  L 42,33  L 41,33  L 41,32  L 40,32  L 40,33  L 38,33  L 38,34  Z  M 41,35  L 40,35  L 40,34  L 41,34  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,36  L 38,37  L 39,37  L 39,36  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,47  L 39,46  L 38,46  L 38,47  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,52  L 39,51  L 38,51  L 38,52  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,31  L 40,31  L 40,30  L 39,30  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,42  L 42,42  L 42,41  L 40,41  L 40,40  L 39,40  L 39,43  L 40,43  L 40,42  L 41,42  L 41,45  L 42,45  L 42,43  L 43,43  L 43,44  L 44,44  L 44,43  L 45,43  L 45,45  L 46,45  L 46,43  L 47,43  L 47,42  L 44,42  L 44,41  L 43,41  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,47  L 39,48  L 40,48  L 40,49  L 41,49  L 41,48  L 42,48  L 42,47  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,49  L 39,49  L 39,50  L 40,50  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,30  L 41,30  L 41,29  L 40,29  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,46  L 41,45  L 40,45  L 40,46  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,52  L 41,52  L 41,51  L 40,51  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,37  L 41,38  L 43,38  L 43,37  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,41  L 43,41  L 43,40  L 42,40  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,46  L 42,46  L 42,47  L 44,47  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,51  L 43,51  L 43,50  L 42,50  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,36  L 43,36  L 43,37  L 44,37  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,38  L 43,38  L 43,39  L 44,39  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,36  L 46,36  L 46,35  L 45,35  L 45,34  L 44,34  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,37  L 44,38  L 45,38  L 45,37  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,41  L 45,40  L 44,40  L 44,41  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,48  L 45,48  L 45,47  L 44,47  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,32  L 51,32  L 51,31  L 49,31  L 49,32  L 47,32  L 47,33  L 46,33  L 46,32  L 45,32  L 45,34  L 46,34  L 46,35  L 47,35  L 47,34  L 48,34  L 48,33  L 50,33  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,39  L 45,40  L 46,40  L 46,39  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,46  L 45,47  L 46,47  L 46,46  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,28  L 47,29  L 46,29  L 46,30  L 47,30  L 47,31  L 48,31  L 48,28  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,32  L 47,32  L 47,31  L 46,31  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,38  L 47,38  L 47,37  L 49,37  L 49,35  L 47,35  L 47,36  L 46,36  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,26  L 47,27  L 48,27  L 48,26  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,39  L 48,39  L 48,38  L 47,38  L 47,40  L 48,40  L 48,41  L 49,41  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,41  L 47,42  L 48,42  L 48,41  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,43  L 47,44  L 48,44  L 48,43  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,24  L 50,23  L 49,23  L 49,22  L 48,22  L 48,24  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,27  L 48,28  L 49,28  L 49,27  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,42  L 48,43  L 49,43  L 49,42  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,18  L 49,18  L 49,20  L 50,20  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,21  L 49,21  L 49,22  L 50,22  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,24  L 50,24  L 50,25  L 49,25  L 49,26  L 50,26  L 50,27  L 51,27  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,35  L 50,35  L 50,34  L 49,34  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,39  L 50,37  L 49,37  L 49,39  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,20  L 50,20  L 50,21  L 51,21  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,29  L 50,30  L 51,30  L 51,29  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,36  L 50,37  L 52,37  L 52,36  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,43  L 51,42  L 50,42  L 50,43  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,22  L 51,22  L 51,23  L 52,23  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,27  L 51,29  L 52,29  L 52,27  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,35  L 52,35  L 52,33  L 51,33  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,30  L 53,29  L 52,29  L 52,30  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,33  L 53,32  L 52,32  L 52,33  Z  " style="fill:rgb(213, 133, 32); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,45  L 15,47  L 16,47  L 16,48  L 17,48  L 17,47  L 18,47  L 18,46  L 16,46  L 16,45  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,49  L 19,48  L 20,48  L 20,47  L 18,47  L 18,48  L 17,48  L 17,50  L 18,50  L 18,49  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,46  L 20,47  L 21,47  L 21,46  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,48  L 20,48  L 20,49  L 21,49  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,45  L 26,44  L 25,44  L 25,42  L 24,42  L 24,41  L 22,41  L 22,42  L 23,42  L 23,43  L 24,43  L 24,45  L 25,45  L 25,46  L 26,46  L 26,47  L 28,47  L 28,48  L 29,48  L 29,46  L 28,46  L 28,45  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,44  L 23,44  L 23,43  L 22,43  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,48  L 26,47  L 24,47  L 24,45  L 22,45  L 22,46  L 23,46  L 23,47  L 22,47  L 22,48  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,31  L 27,29  L 26,29  L 26,31  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,29  L 28,29  L 28,28  L 27,28  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,29  L 28,31  L 27,31  L 27,32  L 29,32  L 29,33  L 30,33  L 30,31  L 29,31  L 29,29  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,49  L 28,48  L 27,48  L 27,49  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,27  L 33,26  L 31,26  L 31,25  L 29,25  L 29,27  L 28,27  L 28,28  L 29,28  L 29,29  L 30,29  L 30,27  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,45  L 29,46  L 32,46  L 32,45  L 31,45  L 31,44  L 30,44  L 30,43  L 29,43  L 29,44  L 28,44  L 28,45  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,38  L 29,39  L 31,39  L 31,37  L 30,37  L 30,38  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,30  L 31,29  L 30,29  L 30,31  L 34,31  L 34,30  L 35,30  L 35,28  L 34,28  L 34,29  L 33,29  L 33,28  L 32,28  L 32,30  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,42  L 30,42  L 30,43  L 31,43  L 31,44  L 32,44  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,35  L 32,33  L 31,33  L 31,35  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,48  L 32,48  L 32,47  L 31,47  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,37  L 33,36  L 32,36  L 32,37  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,39  L 33,38  L 32,38  L 32,39  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,40  L 32,40  L 32,41  L 33,41  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,44  L 32,44  L 32,45  L 33,45  L 33,46  L 34,46  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,27  L 33,27  L 33,28  L 34,28  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,33  L 35,33  L 35,32  L 33,32  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,35  L 33,35  L 33,36  L 34,36  L 34,37  L 35,37  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,40  L 34,39  L 33,39  L 33,40  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,41  L 33,42  L 34,42  L 34,41  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,40  L 34,41  L 35,41  L 35,40  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,43  L 34,43  L 34,44  L 35,44  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,47  L 35,47  L 35,46  L 34,46  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,28  L 36,27  L 35,27  L 35,28  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,33  L 35,34  L 36,34  L 36,33  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,37  L 35,37  L 35,38  L 36,38  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,39  L 35,40  L 36,40  L 36,39  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,45  L 37,42  L 36,42  L 36,41  L 35,41  L 35,43  L 36,43  L 36,44  L 35,44  L 35,45  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,30  L 36,30  L 36,31  L 37,31  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,35  L 39,34  L 38,34  L 38,33  L 40,33  L 40,31  L 39,31  L 39,32  L 37,32  L 37,34  L 36,34  L 36,37  L 38,37  L 38,36  L 37,36  L 37,35  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,39  L 37,39  L 37,38  L 36,38  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,40  L 38,40  L 38,41  L 37,41  L 37,42  L 38,42  L 38,44  L 39,44  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,31  L 39,31  L 39,30  L 40,30  L 40,29  L 38,29  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,39  L 39,39  L 39,38  L 40,38  L 40,37  L 38,37  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,21  L 41,20  L 40,20  L 40,22  L 42,22  L 42,21  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,29  L 42,27  L 41,27  L 41,28  L 40,28  L 40,29  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,34  L 40,35  L 41,35  L 41,34  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,37  L 41,36  L 40,36  L 40,37  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,33  L 42,33  L 42,34  L 43,34  L 43,35  L 42,35  L 42,37  L 43,37  L 43,36  L 44,36  L 44,34  L 45,34  L 45,32  L 44,32  L 44,33  L 43,33  L 43,32  L 42,32  L 42,31  L 43,31  L 43,30  L 41,30  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,39  L 41,39  L 41,41  L 42,41  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,20  L 49,17  L 48,17  L 48,16  L 47,16  L 47,17  L 46,17  L 46,19  L 47,19  L 47,18  L 48,18  L 48,20  L 46,20  L 46,21  L 47,21  L 47,22  L 46,22  L 46,23  L 44,23  L 44,21  L 43,21  L 43,22  L 42,22  L 42,23  L 43,23  L 43,24  L 45,24  L 45,26  L 44,26  L 44,27  L 46,27  L 46,29  L 47,29  L 47,28  L 48,28  L 48,27  L 47,27  L 47,26  L 48,26  L 48,25  L 49,25  L 49,24  L 48,24  L 48,22  L 49,22  L 49,21  L 50,21  L 50,20  Z  M 47,23  L 47,24  L 46,24  L 46,23  Z  M 46,26  L 46,25  L 47,25  L 47,26  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,41  L 42,41  L 42,42  L 43,42  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,28  L 43,30  L 44,30  L 44,29  L 45,29  L 45,28  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,40  L 43,41  L 44,41  L 44,40  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,29  L 45,30  L 44,30  L 44,31  L 45,31  L 45,32  L 46,32  L 46,31  L 47,31  L 47,30  L 46,30  L 46,29  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,37  L 45,36  L 44,36  L 44,37  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,38  L 44,39  L 47,39  L 47,38  L 46,38  L 46,37  L 45,37  L 45,38  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,19  L 45,20  L 46,20  L 46,19  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,35  L 46,34  L 45,34  L 45,35  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,15  L 46,16  L 47,16  L 47,15  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,32  L 46,33  L 47,33  L 47,32  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,31  L 47,32  L 48,32  L 48,31  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,34  L 47,35  L 48,35  L 48,34  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,26  L 48,27  L 50,27  L 50,26  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,28  L 48,28  L 48,29  L 49,29  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,30  L 48,31  L 51,31  L 51,30  L 50,30  L 50,29  L 49,29  L 49,30  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,28  L 51,27  L 50,27  L 50,28  Z  " style="fill:rgb(234, 167, 39); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,50  L 17,49  L 16,49  L 16,50  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 17,50  L 17,51  L 18,51  L 18,50  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 18,51  L 18,52  L 20,52  L 20,51  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,52  L 20,52  L 20,53  L 22,53  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,54  L 24,53  L 22,53  L 22,54  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,54  L 24,55  L 28,55  L 28,54  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,56  L 36,55  L 28,55  L 28,56  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,55  L 40,54  L 36,54  L 36,55  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,53  L 40,53  L 40,54  L 42,54  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,52  L 42,52  L 42,53  L 44,53  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,52  L 46,51  L 44,51  L 44,52  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,50  L 46,51  L 47,51  L 47,50  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,50  L 48,49  L 47,49  L 47,50  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,15  L 48,16  L 49,16  L 49,15  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,49  L 49,49  L 49,48  L 48,48  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,17  L 50,16  L 49,16  L 49,17  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,48  L 50,48  L 50,47  L 49,47  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,17  L 50,17  L 50,18  L 51,18  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,46  L 50,47  L 51,47  L 51,46  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,18  L 51,18  L 51,20  L 52,20  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,46  L 52,44  L 51,44  L 51,46  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,22  L 53,22  L 53,20  L 52,20  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,42  L 52,44  L 53,44  L 53,42  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,22  L 53,24  L 54,24  L 54,22  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,40  L 53,40  L 53,42  L 54,42  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 55,24  L 54,24  L 54,28  L 55,28  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 55,36  L 54,36  L 54,40  L 55,40  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 55,36  L 56,36  L 56,28  L 55,28  Z  " style="fill:rgb(97, 24, 26); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,23  L 24,23  L 24,20  L 23,20  L 23,19  L 22,19  L 22,18  L 20,18  L 20,19  L 18,19  L 18,20  L 17,20  L 17,23  L 18,23  L 18,24  L 19,24  L 19,25  L 21,25  L 21,24  L 23,24  Z  " style="fill:rgb(254, 254, 254); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,50  L 18,50  L 18,51  L 19,51  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,50  L 20,49  L 19,49  L 19,50  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,51  L 20,52  L 21,52  L 21,51  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 21,48  L 21,49  L 22,49  L 22,48  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,51  L 24,50  L 23,50  L 23,49  L 22,49  L 22,50  L 21,50  L 21,51  L 22,51  L 22,52  L 23,52  L 23,51  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,53  L 25,53  L 25,51  L 24,51  L 24,52  L 23,52  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,48  L 24,48  L 24,49  L 25,49  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,50  L 26,50  L 26,49  L 25,49  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,52  L 27,52  L 27,53  L 26,53  L 26,54  L 28,54  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,50  L 30,49  L 28,49  L 28,50  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,54  L 28,55  L 30,55  L 30,54  L 31,54  L 31,52  L 30,52  L 30,53  L 29,53  L 29,54  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,49  L 31,49  L 31,47  L 30,47  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,51  L 31,51  L 31,50  L 30,50  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,54  L 31,54  L 31,55  L 33,55  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,32  L 32,32  L 32,33  L 33,33  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,35  L 34,34  L 32,34  L 32,35  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,46  L 32,47  L 33,47  L 33,46  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,49  L 34,49  L 34,48  L 36,48  L 36,49  L 37,49  L 37,47  L 38,47  L 38,46  L 35,46  L 35,47  L 33,47  L 33,48  L 32,48  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,50  L 33,50  L 33,51  L 34,51  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,34  L 35,33  L 34,33  L 34,34  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,52  L 38,51  L 36,51  L 36,49  L 35,49  L 35,51  L 34,51  L 34,52  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,55  L 36,53  L 35,53  L 35,55  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,34  L 37,34  L 37,32  L 36,32  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,38  L 37,37  L 36,37  L 36,38  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,54  L 38,53  L 37,53  L 37,54  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,35  L 38,36  L 39,36  L 39,35  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,47  L 40,45  L 38,45  L 38,46  L 39,46  L 39,47  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,48  L 39,47  L 38,47  L 38,48  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 38,51  L 39,51  L 39,49  L 38,49  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,37  L 40,37  L 40,36  L 39,36  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,39  L 42,39  L 42,40  L 45,40  L 45,39  L 43,39  L 43,38  L 41,38  L 41,37  L 40,37  L 40,38  L 39,38  L 39,40  L 40,40  L 40,41  L 41,41  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,43  L 39,43  L 39,44  L 40,44  L 40,45  L 41,45  L 41,42  L 40,42  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,49  L 40,49  L 40,48  L 39,48  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,53  L 41,52  L 40,52  L 40,53  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,37  L 42,37  L 42,36  L 41,36  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,45  L 41,45  L 41,47  L 42,47  L 42,46  L 43,46  L 43,45  L 45,45  L 45,44  L 43,44  L 43,43  L 42,43  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,50  L 41,51  L 42,51  L 42,50  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,47  L 42,47  L 42,49  L 43,49  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,38  L 44,38  L 44,37  L 43,37  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,41  L 48,40  L 47,40  L 47,39  L 46,39  L 46,40  L 45,40  L 45,41  L 44,41  L 44,42  L 46,42  L 46,41  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,47  L 45,47  L 45,46  L 44,46  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,36  L 45,37  L 46,37  L 46,36  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,36  L 47,35  L 46,35  L 46,36  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,44  L 47,43  L 46,43  L 46,44  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,50  L 47,50  L 47,49  L 46,49  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,16  L 48,15  L 47,15  L 47,16  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,38  L 48,37  L 47,37  L 47,38  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,43  L 48,42  L 47,42  L 47,43  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,17  L 49,16  L 48,16  L 48,17  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,25  L 48,25  L 48,26  L 49,26  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,30  L 49,30  L 49,29  L 48,29  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,32  L 49,32  L 49,31  L 48,31  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,33  L 48,35  L 49,35  L 49,34  L 50,34  L 50,33  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,38  L 48,38  L 48,39  L 49,39  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,18  L 50,18  L 50,17  L 49,17  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,23  L 50,23  L 50,24  L 51,24  L 51,22  L 52,22  L 52,20  L 51,20  L 51,21  L 50,21  L 50,22  L 49,22  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,25  L 50,25  L 50,24  L 49,24  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,29  L 50,28  L 49,28  L 49,29  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,35  L 49,35  L 49,36  L 50,36  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,41  L 49,44  L 50,44  L 50,41  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,20  L 51,18  L 50,18  L 50,20  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,31  L 51,31  L 51,32  L 50,32  L 50,33  L 52,33  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,35  L 51,35  L 51,34  L 50,34  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,37  L 50,37  L 50,39  L 51,39  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,45  L 51,44  L 50,44  L 50,45  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,27  L 52,25  L 51,25  L 51,27  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,30  L 52,29  L 51,29  L 51,30  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,39  L 51,40  L 52,40  L 52,39  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,42  L 51,42  L 51,44  L 52,44  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,24  L 53,24  L 53,22  L 52,22  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,28  L 53,27  L 52,27  L 52,28  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,36  L 53,35  L 52,35  L 52,36  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,39  L 53,39  L 53,38  L 52,38  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,41  L 53,41  L 53,40  L 52,40  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,25  L 53,25  L 53,26  L 54,26  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,28  L 53,28  L 53,29  L 54,29  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,37  L 53,37  L 53,38  L 54,38  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,39  L 53,40  L 54,40  L 54,39  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,29  L 54,30  L 55,30  L 55,29  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,32  L 54,33  L 55,33  L 55,32  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 55,35  L 55,34  L 54,34  L 54,35  Z  " style="fill:rgb(197, 93, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 22,53  L 23,53  L 23,52  L 22,52  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 23,51  L 23,52  L 24,52  L 24,51  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,54  L 25,53  L 24,53  L 24,54  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,51  L 25,52  L 26,52  L 26,51  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,52  L 26,53  L 27,53  L 27,52  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,52  L 28,51  L 27,51  L 27,52  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 28,53  L 28,54  L 29,54  L 29,53  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,51  L 30,50  L 29,50  L 29,51  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,52  L 29,53  L 30,53  L 30,52  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,55  L 31,55  L 31,54  L 30,54  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,54  L 32,53  L 31,53  L 31,54  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,52  L 32,52  L 32,53  L 33,53  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,54  L 34,54  L 34,53  L 33,53  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,55  L 35,55  L 35,54  L 34,54  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 36,53  L 36,54  L 37,54  L 37,53  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,50  L 37,51  L 38,51  L 38,50  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,52  L 38,52  L 38,54  L 40,54  L 40,53  L 39,53  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,51  L 39,51  L 39,52  L 40,52  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,50  L 42,50  L 42,49  L 41,49  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,53  L 42,53  L 42,51  L 41,51  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,45  L 43,45  L 43,46  L 44,46  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,47  L 43,48  L 44,48  L 44,47  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,51  L 44,49  L 43,49  L 43,51  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,49  L 45,48  L 44,48  L 44,49  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,45  L 45,45  L 45,46  L 46,46  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,47  L 45,48  L 47,48  L 47,47  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,49  L 45,49  L 45,51  L 46,51  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,46  L 47,46  L 47,47  L 48,47  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,49  L 48,49  L 48,48  L 47,48  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,37  L 48,38  L 49,38  L 49,37  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,42  L 49,42  L 49,41  L 48,41  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,46  L 49,46  L 49,45  L 50,45  L 50,44  L 49,44  L 49,43  L 48,43  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,27  L 49,28  L 50,28  L 50,27  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,36  L 49,36  L 49,37  L 50,37  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,41  L 51,39  L 50,39  L 50,40  L 49,40  L 49,41  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,47  L 50,46  L 49,46  L 49,47  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,29  L 51,28  L 50,28  L 50,29  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,33  L 50,33  L 50,34  L 51,34  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,35  L 50,35  L 50,36  L 52,36  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 50,44  L 51,44  L 51,43  L 50,43  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,30  L 51,30  L 51,31  L 52,31  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,37  L 51,38  L 53,38  L 53,37  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,41  L 51,42  L 52,42  L 52,41  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,24  L 52,24  L 52,25  L 53,25  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,26  L 52,27  L 53,27  L 53,26  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,28  L 52,29  L 53,29  L 53,28  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,31  L 52,32  L 53,32  L 53,31  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,33  L 54,32  L 53,32  L 53,34  L 52,34  L 52,35  L 54,35  L 54,34  L 55,34  L 55,33  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,40  L 53,39  L 52,39  L 52,40  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,27  L 53,28  L 54,28  L 54,27  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,30  L 54,29  L 53,29  L 53,30  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,37  L 54,36  L 53,36  L 53,37  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,39  L 54,39  L 54,38  L 53,38  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 55,29  L 55,28  L 54,28  L 54,29  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,31  L 55,31  L 55,30  L 54,30  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 55,36  L 55,35  L 54,35  L 54,36  Z  " style="fill:rgb(180, 24, 58); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,51  L 25,50  L 24,50  L 24,51  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,52  L 25,52  L 25,54  L 26,54  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,50  L 26,51  L 27,51  L 27,50  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,51  L 28,51  L 28,53  L 29,53  L 29,52  L 30,52  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,50  L 32,49  L 30,49  L 30,50  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,51  L 33,51  L 33,50  L 32,50  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,54  L 33,53  L 32,53  L 32,54  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 34,52  L 33,52  L 33,53  L 34,53  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,55  L 34,55  L 34,54  L 33,54  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,51  L 35,50  L 34,50  L 34,51  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,54  L 35,53  L 34,53  L 34,54  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,53  L 36,53  L 36,52  L 35,52  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,50  L 36,50  L 36,51  L 37,51  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 37,49  L 37,50  L 38,50  L 38,49  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,48  L 38,48  L 38,49  L 39,49  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 41,51  L 41,49  L 40,49  L 40,50  L 39,50  L 39,51  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,52  L 39,53  L 40,53  L 40,52  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,46  L 40,47  L 41,47  L 41,46  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,48  L 41,48  L 41,49  L 42,49  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 42,49  L 42,50  L 43,50  L 43,49  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,52  L 44,51  L 42,51  L 42,52  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 43,49  L 44,49  L 44,48  L 43,48  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,43  L 44,43  L 44,44  L 45,44  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,45  L 44,45  L 44,46  L 45,46  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,49  L 44,49  L 44,51  L 45,51  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 45,49  L 47,49  L 47,48  L 45,48  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 47,42  L 47,41  L 46,41  L 46,42  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 46,47  L 47,47  L 47,46  L 48,46  L 48,44  L 46,44  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,47  L 47,47  L 47,48  L 49,48  L 49,46  L 48,46  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,40  L 50,40  L 50,39  L 49,39  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 49,45  L 49,46  L 51,46  L 51,45  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,42  L 51,41  L 50,41  L 50,42  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 51,23  L 51,25  L 52,25  L 52,23  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,39  L 52,38  L 51,38  L 51,39  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,41  L 52,40  L 51,40  L 51,41  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,25  L 52,25  L 52,26  L 53,26  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 55,32  L 55,31  L 54,31  L 54,30  L 52,30  L 52,31  L 53,31  L 53,32  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,33  L 52,34  L 53,34  L 53,33  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,36  L 52,37  L 53,37  L 53,36  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 52,41  L 52,42  L 53,42  L 53,41  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 54,25  L 54,24  L 53,24  L 53,25  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,27  L 54,27  L 54,26  L 53,26  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 53,35  L 53,36  L 54,36  L 54,35  Z  " style="fill:rgb(189, 64, 24); fill-opacity:1.000; stroke:none;" />
+</svg>

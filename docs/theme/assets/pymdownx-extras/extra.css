@@ -1986,5 +1986,10 @@ html {
     }
 }
 
+.md-content__inner {
+    margin: 0 -3.2rem 1.2rem;
+    padding-top: .6rem
+}
+
 
 /*# sourceMappingURL=extra-bc6cc2ae3b.css.map */

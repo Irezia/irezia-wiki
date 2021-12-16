@@ -111,6 +111,7 @@ markdown_extensions:
 
 extra_css:
   - assets/pymdownx-extras/extra.css
+  - assets/css/extra.css
 extra_javascript:
   - assets/pymdownx-extras/extra-loader.js
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js

@@ -1,21 +1,21 @@
 # Compétences
 <div class="ir-container">
-<div class="ir-thumb-r"><img src="../img/skills/IR-SKILLS-menu-général.jpg" width="250" height="250"/></div>
-<div class="content">
-<p class="paragraph">Il existe 9 skills regroupant la majorité des actions réalisables sur Minecraft : Mineur, Combat, Enchantement, Farming, Bûcheron, Pêche, Alchimie, Armurerie et Exploration. Vous trouverez plus d’informations sur ceux-ci ci-dessous.      </p></div>
-</div>  
+    <div class="ir-thumb-r"><img src="../img/skills/IR-SKILLS-menu-général.jpg" width="250" height="250"/></div>
+    <div class="content">
+        <p class="paragraph">Il existe 9 skills regroupant la majorité des actions réalisables sur Minecraft : Mineur, Combat, Enchantement, Farming, Bûcheron, Pêche, Alchimie, Armurerie et Exploration. Vous trouverez plus d’informations sur ceux-ci ci-dessous.      </p></div>
+</div>
 
 <div class="ir-container">
-<div class="ir-thumb-l"><img src="../img/skills/IR-SKILLS-menu-stats.jpg" width="250" height="250"/></div>
-<div class="content-l">
-<p class="paragraph">Les « skills », autrement dit les compétences vous permettent de débloquer diverses statistiques et compétences en fonction de vos actions.  </p></div>  
-</div> 
+    <div class="ir-thumb-l"><img src="../img/skills/IR-SKILLS-menu-stats.jpg" width="250" height="250"/></div>
+    <div class="content-l">
+        <p class="paragraph">Les « skills », autrement dit les compétences vous permettent de débloquer diverses statistiques et compétences en fonction de vos actions.  </p></div>
+</div>
 
 <div class="ir-container">
-<div class="ir-thumb-r"><img src="../img/skills/IR-SKILLS-menu-combat.jpg" width="250" height="250"/></div>
-<div class="content">
-<p class="paragraph">Pour monter de niveau dans vos différents skills, vous devez réaliser des actions en lien avec celui-ci. Par exemple, pour améliorer votre skill Combat, vous devrez tuer des monstres. En fonction de l’action, vous gagnerez plus ou moins d’expériences, en effet, tuer un enderman sera plus rentable que de tuer un zombie.  </p></div>  
-</div> 
+    <div class="ir-thumb-r"><img src="../img/skills/IR-SKILLS-menu-combat.jpg" width="250" height="250"/></div>
+    <div class="content">
+        <p class="paragraph">Pour monter de niveau dans vos différents skills, vous devez réaliser des actions en lien avec celui-ci. Par exemple, pour améliorer votre skill Combat, vous devrez tuer des monstres. En fonction de l’action, vous gagnerez plus ou moins d’expériences, en effet, tuer un enderman sera plus rentable que de tuer un zombie.  </p></div>
+</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>

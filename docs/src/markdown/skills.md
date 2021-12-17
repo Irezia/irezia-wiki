@@ -56,16 +56,12 @@
     <td><v><img src="../img/minecraft/32x/item/netherite_sword.svg" ></v></td>
     <td><v>Combat</v></td> 
     <td>
-      <v>
-        
 • 🗡 Force<br>
 • ⫽ Férocité<br>
 • Chance de faire saigner votre adversaire<br>
 • Chance de donné la nausé à votre adversaire <br>
 • Chance d'infliger 3x vos dégâts<br>
         <!--  <li>Chance d'enlever l'invulnérabilité de votre adversaire</li> -->
-      
-      </v>
     </td>
     <td><v>Tuer des monstres comme les Zombies, Squelettes, Creeper, ...</v></td>
     <td><span class="v">50</span></td>

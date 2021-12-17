@@ -1,28 +1,61 @@
 # COLLECTIONS
 
-Le système de collections vous permet de débloquer diverses récompenses (recettes d’objets, familiers, enchantements personnalisés, …) après avoir récolté divers objets.  
-Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et débloquerez de nouveaux paliers et donc des récompenses.
+<div class="ir-container">
+    <div class="ir-thumb-r"><img src="../img/collections/IR-COLLECTIONS-menu-carotte.jpg" width="250" height="250"/></div>
+    <div class="content">
+        <p class="paragraph">
+        <V>
+            Le système de collections vous permet de débloquer diverses récompenses (recettes d’objets, familiers, enchantements personnalisés, …) après avoir récolté divers objets.  
+            Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et débloquerez de nouveaux paliers et donc des récompenses.
+        </v>
+        </p>
+    </div>
+</div>
 
-![](img/collections/IR-COLLECTIONS-menu-carotte.jpg)
-
- Il y a un total de 8 catégories : Agriculteur, Boucher, Mineur, Terraformeur, Combattant, Bucheron, Pêcheur, Event. Chaque catégorie reprend la majorité des objets vanilla de Minecraft associés.
-
- Pour accéder au menu principal, il suffit d’utiliser la commande `/irmenu` et de sélectionner le sous-menu `Collections`, vous pourrez ensuite naviguer à votre guise à travers les différents sous-menus.
-
-![](img/collections/IR-COLLECTIONS-menu-principal.jpg)
 
 
- Vous pouvez également connaître votre classement dans chaque collection en cliquant sur le tableau dans le menu principal.  
 
-![](img/collections/IR-COLLECTIONS-menu-classement.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-principal.jpg" width="250" height="250"/></div>
+    <div class="content-l">
+        <p class="paragraph">
+            <v>
+                Il y a un total de 8 catégories : Agriculteur, Boucher, Mineur, Terraformeur, Combattant, Bucheron, Pêcheur, Event. Chaque catégorie reprend la majorité des objets vanilla de Minecraft associés.
+                Pour accéder au menu principal, il suffit d’utiliser la commande `/irmenu` et de sélectionner le sous-menu `Collections`, vous pourrez ensuite naviguer à votre guise à travers les différents sous-menus.
+            </v>
+        </p>
+    </div>  
+</div> 
+ 
+
+<div class="ir-container">
+    <div class="ir-thumb-r"><img src="../img/collections/IR-COLLECTIONS-menu-classement.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+               Vous pouvez également connaître votre classement dans chaque collection en cliquant sur le tableau dans le menu principal.
+            </v>
+        </p>
+    </div>  
+</div> 
+
 
 
 
 ## AGRICULTEUR
-*Cette catégorie regroupe les cultures*  
 
-![](img/collections/IR-COLLECTIONS-menu-agriculteur.jpg)
 
+
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-agriculteur.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie regroupe les cultures</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 |                   ||  Objets dans la collection       ||                                                  |
 | :---------------: || :-----------------------:        ||                                                  |
@@ -36,10 +69,16 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ## BOUCHER
 
-<IMAGE MENU BOUCHER>
-*Cette catégorie regroupe les viandes et les butins associés*  
-
-![](img/collections/IR-COLLECTIONS-menu-boucher.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-boucher.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie regroupe les viandes et les butins associés</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 
 |                   ||  Objets dans la collection       ||                                                  |
@@ -52,10 +91,16 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ## MINEUR
 
-<IMAGE MENU MINEUR>
-*Cette catégorie regroupe les minerais*  
-
-![](img/collections/IR-COLLECTIONS-menu-mineur.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-mineur.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie regroupe les minerais</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 
 |                   ||  Objets dans la collection        ||                                            |
@@ -68,10 +113,16 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ## TERRAFORMEUR
 
-<IMAGE MENU TERRAFORMEUR>
-*Cette catégorie regroupe les blocs à terraformer*
-
-![](img/collections/IR-COLLECTIONS-menu-terraformeur.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-terraformeur.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie regroupe les blocs à terraformer</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 
 |                   ||  Objets dans la collection      ||                                                            |
@@ -89,10 +140,16 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ## COMBATTANT
 
-<IMAGE MENU COMBATTANT>
-*Cette catégorie regroupe les butins de monstres*
-
-![](img/collections/IR-COLLECTIONS-menu-combattant.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-combattant.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie regroupe les butins de monstres</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 
 |                   ||  Objets dans la collection  ||                                                            |
@@ -107,10 +164,16 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ## BUCHERON
 
-<IMAGE MENU BUCHERON>
-*Cette catégorie regroupe les buches d’arbres*
-
-![](img/collections/IR-COLLECTIONS-menu-bucheron.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-bucheron.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie regroupe les buches d’arbres</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 
 
@@ -124,10 +187,16 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ## PECHEUR
 
-<IMAGE MENU PECHEUR>
-*Cette catégorie regroupe les poissons et les trésors*
-
-![](img/collections/IR-COLLECTIONS-menu-pecheur.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-pecheur.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie regroupe les poissons et les trésors</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 
 |                   ||  Objets dans la collection  ||                                                                 |
@@ -141,10 +210,16 @@ Plus vous récoltez un objet, plus vous avancerez au sein de sa collection et d�
 
 ## EVENT
 
-<IMAGE MENU EVENT>
-*Cette catégorie contient la collection générale des Events*
-
-![](img/collections/IR-COLLECTIONS-menu-event.jpg)
+<div class="ir-container">
+    <div class="ir-thumb-l"><img src="../img/collections/IR-COLLECTIONS-menu-event.jpg" width="400" height="400"/></div>
+    <div class="content">
+        <p class="paragraph">
+            <v>
+                <i>Cette catégorie contient la collection générale des Events</i>
+            </v>
+        </p>
+    </div>  
+</div> 
 
 
 |                   ||  Objets dans la collection  |||

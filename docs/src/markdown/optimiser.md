@@ -1,8 +1,8 @@
-!!! info "Informations"
+<!-- !!! info "Informations"
     Recommandé pour les petit PC, mais vous pouvez aussi l'utiliser si vous avez un bon PC.
 
     J'ai actuellement un i7 et une RTX 2070, et j'utilise ce qui va suivre, cela optimise pas mal d'aspect du jeu
-    comme le temps de lancement, chargement des mondes, et beaucoup d'autres choses.
+    comme le temps de lancement, chargement des mondes, et beaucoup d'autres choses. -->
 
 
 ## 1. Installer Fabric

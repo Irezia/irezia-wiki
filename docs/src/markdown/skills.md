@@ -50,21 +50,19 @@
       </v>
     </td>
     <td><v>Miner de la pierre, minerais, ...</v></td>
-    <td><v>50</v></td>
+    <td><span class="v">50</span></td>
   </tr>
   <tr>
     <td><v><img src="../img/minecraft/32x/item/netherite_sword.svg" ></v></td>
     <td><v>Combat</v></td> 
     <td>
       <v>
-        <ul>
 • 🗡 Force<br>
 • ⫽ Férocité<br>
 • Chance de faire saigner votre adversaire<br>
 • Chance de donné la nausé à votre adversaire <br>
 • Chance d'infliger 3x vos dégâts<br>
         <!--  <li>Chance d'enlever l'invulnérabilité de votre adversaire</li> -->
-        </ul>
       </v>
     </td>
     <td><v>Tuer des monstres comme les Zombies, Squelettes, Creeper, ...</v></td>
@@ -78,8 +76,8 @@
 • ✎ Intelligence<br>
 • ☣ Chance de critique<br>
 • Chance de réparer automatiquement un objet<br>
-• Chance de récupérer votre xp après avoir<br>enchanté un objet<br>
-• Chance de récupérer le lapis après avoir<br>enchanté un objet
+• Chance de récupérer votre xp après avoir<br> enchanté un objet<br>
+• Chance de récupérer le lapis après avoir<br> enchanté un objet
       </v>
     </td>
     <td><v>Combiner des objets dans une enclume ou utiliser la table d'enchantemente</v></td>
@@ -130,8 +128,8 @@
     <td><v>
 • ☣ Chance de critique<br>
 • ✎ Intelligence<br>
-• Les potions que vous infusées durent<br>X% plus longtemps<br>
-• Les potions prennent X% moins de temps<br>à être infusées<br>
+• Les potions que vous infusées durent<br> X% plus longtemps<br>
+• Les potions prennent X% moins de temps<br> à être infusées<br>
 • Chance d'ignorer les potions négative
     </v></td>
     <td><v>Infuser des potions</v></td>

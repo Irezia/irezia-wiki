@@ -51,6 +51,9 @@ nav:
   - 'Enchantements': enchant.md
   - "Optimiser Minecraft": optimiser.md
 markdown_extensions:
+  - lightgallery:
+      show_description_in_lightgallery: true
+      show_description_as_inline_caption: true
   - pymdownx.superfences:
   - pymdownx.snippets:
   - markdown.extensions.toc:

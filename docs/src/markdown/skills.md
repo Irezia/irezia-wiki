@@ -57,14 +57,14 @@
     <td><v>Combat</v></td> 
     <td>
       <v>
-        <ul>
+        
 • 🗡 Force<br>
 • ⫽ Férocité<br>
 • Chance de faire saigner votre adversaire<br>
 • Chance de donné la nausé à votre adversaire <br>
 • Chance d'infliger 3x vos dégâts<br>
         <!--  <li>Chance d'enlever l'invulnérabilité de votre adversaire</li> -->
-        </ul>
+      
       </v>
     </td>
     <td><v>Tuer des monstres comme les Zombies, Squelettes, Creeper, ...</v></td>

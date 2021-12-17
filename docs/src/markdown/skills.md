@@ -17,7 +17,7 @@
 <p class="paragraph">Pour monter de niveau dans vos différents skills, vous devez réaliser des actions en lien avec celui-ci. Par exemple, pour améliorer votre skill Combat, vous devrez tuer des monstres. En fonction de l’action, vous gagnerez plus ou moins d’expériences, en effet, tuer un enderman sera plus rentable que de tuer un zombie.  </p></div>  
 </div> 
 
-<table style="undefined;table-layout: fixed; width: 100%">
+<table style="undefined;table-layout: fixed; width: 100%; text-align:justify">
 <colgroup>
 <col style="width: 86px;"> 
 <col style="width: 110px;">

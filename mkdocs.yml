@@ -32,6 +32,7 @@ nav:
         - 'Donjons': donjons.md
         - 'Events': events.md
     - 'Contribuer': contribuer.md
+    - 'Villes': villes.md
   - 'Jobs':
       Mineur: Jobs/Mineur.md
       Agriculteur: Jobs/Agriculteur.md
@@ -51,9 +52,7 @@ nav:
   - 'Enchantements': enchant.md
   - "Optimiser Minecraft": optimiser.md
 markdown_extensions:
-  - lightgallery:
-      show_description_in_lightgallery: true
-      show_description_as_inline_caption: true
+  - def_list
   - pymdownx.superfences:
   - pymdownx.snippets:
   - markdown.extensions.toc:

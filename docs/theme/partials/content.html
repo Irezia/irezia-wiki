@@ -1,54 +1,32 @@
 {% if page.edit_url %}
-<a
-  href="{{ page.edit_url }}"
-  title="{{ lang.t('edit.link.title') }}"
-  class="md-content__button md-icon"
->
+<a href="{{ page.edit_url }}" title="{{ lang.t('edit.link.title') }}" class="md-content__button md-icon">
   {% include ".icons/material/pencil.svg" %}
-</a>
-{% endif %}
-
-{% if not "\x3ch1" in page.content %}
-  <h1>{{ page.title | d(config.site_name, true)}}</h1>
-{% endif %}
-
-{{ page.content }}
-
-{% if page and page.meta and (
-  page.meta.git_revision_date_localized or
-  page.meta.revision_date
-) %}
-  {% include "partials/source-file.html" %}
-{% endif %}
-
-{% set disqus = config.extra.disqus %}
-{% if page and page.meta and page.meta.disqus is string %}
-  {% set disqus = page.meta.disqus %}
-{% endif %}
-
-{% if not page.is_homepage and disqus %}
-  <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
-  <div id="disqus_thread"></div>
-  <script>
+</a> {% endif %} {% if not "\x3ch1" in page.content %}
+<h1>{{ page.title | d(config.site_name, true)}}</h1>
+{% endif %} {{ page.content }} {% if page and page.meta and ( page.meta.git_revision_date_localized or page.meta.revision_date ) %} {% include "partials/source-file.html" %} {% endif %} {% set disqus = config.extra.disqus %} {% if page and page.meta and
+page.meta.disqus is string %} {% set disqus = page.meta.disqus %} {% endif %} {% if not page.is_homepage and disqus %}
+<h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+<div id="disqus_thread"></div>
+<script>
     var disqus_config = function() {
-      this.page.url = "{{ page.canonical_url }}"
-      this.page.identifier =
-        "{{ page.canonical_url | replace(config.site_url, '') }}" 
+        this.page.url = "https://wiki.irezia.fr/"
+        this.page.identifier =
+            "wiki.irezia.fr"
     }
 
     if (typeof DISQUS === "undefined") {
-      var script = document.createElement("script")
-      script.async = true
-      script.src = "https://{{ disqus }}.disqus.com/embed.js"
-      script.setAttribute("data-timestamp", Date.now())
+        var script = document.createElement("script")
+        script.async = true
+        script.src = "https://{{ disqus }}.disqus.com/embed.js"
+        script.setAttribute("data-timestamp", Date.now())
 
-      document.body.appendChild(script)
+        document.body.appendChild(script)
 
     } else {
-      DISQUS.reset({
-        reload: true,
-        config: disqus_config
-      })
+        DISQUS.reset({
+            reload: true,
+            config: disqus_config
+        })
     }
-  </script>
+</script>
 {% endif %}

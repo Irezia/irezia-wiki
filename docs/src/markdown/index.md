@@ -1,4 +1,4 @@
-<span class="centered">![irezia](https://irezia.fr/storage/img/banner.png){ loading=lazy width=487 height=288 }</span>
+<center>![irezia](https://irezia.fr/storage/img/banner.png){ loading=lazy width=487 height=288 }</center>
 
 
 !!! note "jsp"

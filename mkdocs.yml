@@ -55,19 +55,19 @@ markdown_extensions:
   - def_list
   - pymdownx.superfences:
   - pymdownx.snippets:
-  - markdown.extensions.toc:
+  - toc:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
-      permalink: ""
-  - markdown.extensions.admonition:
-  - markdown.extensions.smarty:
+      permalink: true
+  - admonition:
+  - smarty:
       smart_quotes: false
   - pymdownx.betterem:
-  - markdown.extensions.attr_list:
-  - markdown.extensions.def_list:
-  - markdown.extensions.tables:
-  - markdown.extensions.abbr:
-  - markdown.extensions.footnotes:
-  - markdown.extensions.md_in_html:
+  - attr_list:
+  - def_list:
+  - tables:
+  - abbr:
+  - footnotes:
+  - md_in_html:
   - pymdownx.highlight:
       extend_pygments_lang:
         - name: php-inline
@@ -111,6 +111,11 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.saneheaders:
 
+extra:
+  disqus: irezia
+  analytics:
+    provider: google
+    property: G-ZWHE15VHDT
 extra_css:
   - assets/pymdownx-extras/extra.css
   - assets/css/extra.css

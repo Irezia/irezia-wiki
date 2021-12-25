@@ -130,3 +130,9 @@ v {
     padding: 0 .2941176471em;
     word-break: break-word;
 }
+
+.md-typeset>div.enchants h2 {
+    font-size: 1.5625em;
+    line-height: 1.4;
+    margin: -0.4em 0 -0.36em;
+}

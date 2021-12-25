@@ -1,3 +1,4 @@
+<div class="enchants" markdown="1">
 ## Abattoir  
 ```yaml  
 Description: Augmente les dégâts contre les monstres passifs.   
@@ -1364,5 +1365,5 @@ Description: Recevez un court effet de célérité après avoir cassé un bloc.
 Niveau max: 3  
 Conflits: Aucun conflit   
 Target: PIOCHE, HACHE, SHOVEL, HOE,   
-```  
-
+```
+</div>

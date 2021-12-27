@@ -39,14 +39,6 @@ nav:
       Bûcheron: Jobs/Bucheron.md
       Pêcheur: Jobs/Pecheur.md
       Chasseur: Jobs/Chasseur.md
-  - 'Skills':
-      Mining: Skills/Mineur.md
-      Farming: Skills/Farming.md
-      Combat: Skills/Combat.md
-      Foraging: Skills/Foraging.md
-      Enchanting: Skills/Enchanting.md
-      Alchemy: Skills/Alchemy.md
-      Fishing: Skills/Fishing.md
   - 'Quêtes':
       Introduction: Quetes/Introduction.md
   - 'Enchantements': enchant.md

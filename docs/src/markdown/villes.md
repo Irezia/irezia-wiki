@@ -61,7 +61,7 @@ Parcelles locatives : préconstruites ou à construire sous forme d’un grand c
 
 Bonus : zone de récolte avec repousse automatique à l’ouest du quartier
 
-<IMAGE IR-QUARTIER-AGRICULTEUR>
+![](img/villes/IR-VILLES-agri.png)
 
 
 
@@ -73,7 +73,7 @@ Parcelles locatives : préconstruites ou à construire soit sous forme de cabane
 
 Bonus : possibilité de pêcher directement à côté de votre logement
 
-<IMAGE IR-QUARTIER-PECHEUR>
+![](img/villes/IR-VILLES-pecheur.png)
 
 
 
@@ -85,7 +85,7 @@ Parcelles locatives : possibilité de louer dans le quartier nord ou sud par rap
 
 Bonus : à proximité direct de la cave à monstres 
 
-<IMAGE IR-QUARTIER-MILITAIRE>
+![](img/villes/IR-VILLES-militaire.png)
 
 
 
@@ -97,7 +97,7 @@ Parcelles locatives : préconstruites ou à construire soit en surface, soit dir
 
 Bonus : divers minerais de toute sorte apparaîtront par moment dans la mine
 
-<IMAGE IR-QUARTIER-MINEUR>
+![](img/villes/IR-VILLES-mineur.png)
 
 
 
@@ -109,7 +109,7 @@ Parcelles locatives : préconstruites ou à construire, soit en surface, soit so
 
 Bonus : zone de récolte de chaque type d’arbres avec repousse automatique au sud-ouest du quartier
 
-<IMAGE IR-QUARTIER-BUCHERON>
+![](img/villes/IR-VILLES-bucheron.png)
 
 
 

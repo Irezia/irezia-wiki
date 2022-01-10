@@ -118,7 +118,7 @@ v {
     -webkit-print-color-adjust: exact;
     color-adjust: exact;
     font-size: .8rem;
-    line-height: 16.6px;
+    line-height: 23.6px;
 }
 
 .md-typeset code {
@@ -135,4 +135,11 @@ v {
     font-size: 1.5625em;
     line-height: 1.4;
     margin: -0.2em 0px -0.70em;
+}
+
+.md-typeset>div.skill {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: .8rem;
+    line-height: 18.6px;
 }

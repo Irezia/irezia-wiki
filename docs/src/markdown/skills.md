@@ -1,3 +1,5 @@
+<div class="skill">
+
 # Compétences
 <div class="ir-container">
     <div class="ir-thumb-r"><img src="../img/skills/IR-SKILLS-menu-général.jpg" width="250" height="250"/></div>
@@ -163,3 +165,4 @@
   </tr>
 </tbody>
 </table>
+</div>

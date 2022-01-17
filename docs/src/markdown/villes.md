@@ -48,8 +48,8 @@ S’agissant de la ville Staff, vous pourrez y trouver tous les bâtiments néce
 Zone centrale de la ville d’Opale. Présence de tous les bâtiments administratifs.
 
 Parcelles locatives : 40 appartements à louer par les nouveaux arrivants à des prix abordables
-
-<IMAGE IR-CENTRE-VILLE>
+ 
+![](img/villes/IR-VILLES-centre.png)
 
 
 

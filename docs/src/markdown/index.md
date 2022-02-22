@@ -1,27 +1,6 @@
 <center>![irezia](https://irezia.fr/storage/img/banner.png){ loading=lazy width=487 height=288 }</center>
 
 
-!!! note "jsp"
-    Parler des zones explorable, mais je sais pas ou les mettre
-    
-    y'a pleins de truc mais je sais pas quoi/ou mettre
-
-Bienvenue sur le wiki d'Irezia fait par les meilleurs.
-C'est ici que tout les aspects du serveur vous seront expliqués le plus clairement possible pour vous rendre la vie sur le serveur la plus facile possible.
-
-Pour commencer, vous pouvez avoir un aperçu des différents aspects du serveur avec le menu disponnible à gauche.
-
-Vous pouvez <span style="color:blue">également cliquer</span> sur les boutons ci-dessous pour avoir plus d'informations.
-
-
-``` yaml
-theme:
-  features:
-    - content.code.annotate # (1)
-```
-
-1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown.
 
 
 

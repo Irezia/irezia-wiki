@@ -22,27 +22,56 @@ theme:
     - navigation.instant
     - content.code.annotate
 nav:
-  - 'Home':
+  - 'Accueil':
     - 'Bienvenue': index.md
-    - 'Aperçu':
-        - 'Quêtes': quete.md
-        - 'Jobs': jobs.md
-        - 'Skills': skills.md
-        - 'Collections': collections.md
-        - 'Donjons': donjons.md
-        - 'Events': events.md
-    - 'Contribuer': contribuer.md
+    - 'Systèmes principaux':
+      - 'Quêtes': quete.md
+      - 'Skills': skills.md
+      - 'Collections': collections.md
+      - 'Enchantements': enchant.md
+      - 'Métiers': jobs.md
+    - 'Systèmes secondaires':
+      - 'Audio': audio.md
+      - 'Artéfacts': artefact.md
+      - 'Advanced Achievement': aach.md
+      - 'TimedQuestion': timedquestion.md
+    - 'Cartes':
+      - 'Villes': villes.md
+      - 'Map ressources': ressources.md
+    - 'Commerce':
+      - 'Hôtel de ventes': hdv.md
+      - 'Banque': banque.md
+    - 'Site':
+      - 'Vote': vote.md
+      - 'Boutique': boutique.md
+      - 'Contribuer au Wiki': contribuer.md
+    - 'Minecraft':
+      - 'Optimiser Minecraft': optimiser.md
+  - 'Systèmes principaux':
+    - 'Quêtes': quete.md
+    - 'Skills': skills.md
+    - 'Collections': collections.md
+    - 'Enchantements': enchant.md
+    - 'Métiers': jobs.md
+  - 'Systèmes secondaires':
+    - 'Audio': audio.md
+    - 'Artéfacts': artefact.md
+    - 'Advanced Achievement': aach.md
+    - 'TimedQuestion': timedquestion.md
+  - 'Cartes':
     - 'Villes': villes.md
-  - 'Jobs':
-      Mineur: Jobs/Mineur.md
-      Agriculteur: Jobs/Agriculteur.md
-      Bûcheron: Jobs/Bucheron.md
-      Pêcheur: Jobs/Pecheur.md
-      Chasseur: Jobs/Chasseur.md
-  - 'Quêtes':
-      Introduction: Quetes/Introduction.md
-  - 'Enchantements': enchant.md
-  - "Optimiser Minecraft": optimiser.md
+    - 'Map ressources': ressources.md
+  - 'Commerce':
+    - 'Hôtel de ventes': hdv.md
+    - 'Banque': banque.md
+  - 'Site':
+    - 'Vote': vote.md
+    - 'Boutique': boutique.md
+    - 'Contribuer au Wiki': contribuer.md
+  - 'Minecraft':
+    - 'Optimiser Minecraft': optimiser.md
+  
+    
 markdown_extensions:
   - def_list
   - pymdownx.superfences:

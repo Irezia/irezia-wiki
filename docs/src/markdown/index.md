@@ -3,10 +3,12 @@
 
 
 
+Bienvenue sur le Wiki officiel d’Irezia ! Il est géré par le staff mais également alimenté par la communauté. Ce wiki vous permet de découvrir toutes les nouveautés et leurs fonctionnements.
 
-[<span style="font-size:25px">:minecraft-32x-item-diamond_pickaxe:</span> Liste des jobs ](Jobs/Mineur){: .md-button .md-button--primary }              
-[<span style="font-size:25px">:minecraft-32x-item-diamond_sword:</span> Liste des skills ](Skills/Mineur){: .md-button .md-button--primary }    
-[<span style="font-size:25px">:minecraft-32x-item-ender_pearl:</span> Quêtes ](Quetes/Introduction){: .md-button .md-button--primary }              
-[<span style="font-size:25px">:minecraft-32x-block-grass_block_top:</span> Collections ](#){: .md-button .md-button--primary }              
-[<span style="font-size:25px">:minecraft-32x-block-mossy_cobblestone:</span> Donjons ](#){: .md-button .md-button--primary }
 
+
+N’hésitez pas à faire vos propositions, c’est grâce à vous que ce wiki sera complet et permettra à chacun de bien connaître le serveur ! Chaque proposition de modification/d’ajout sera analysée avant d’être publiée.
+
+
+
+Ce wiki ne répond pas à votre question ? N’hésitez pas à directement la poser en jeu ou sur le Discord !

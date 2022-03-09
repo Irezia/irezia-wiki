@@ -11,8 +11,6 @@ Pour se faire, il vous faudra:
 
 Une fois votre clavier branché, votre compte GitHub crée et que votre compréhension du Markdown est suffisante, vous pouvez commencer à proposer des changement sur le Wiki.
 
-!!! danger "Avertissement"
-    Quelque chose qui leurs dit de pas proposer des changement de merde ou de faire chier en faisant des pr inutile
 
 ## Créer un fork du projet
 Pour proposer des changements, vous devez au préalable créer un fork du projet, rien de bien compliqué.

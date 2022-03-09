@@ -21,7 +21,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
-    - navigation.sections
     - navigation.top
     - search.share
     - navigation.indexes

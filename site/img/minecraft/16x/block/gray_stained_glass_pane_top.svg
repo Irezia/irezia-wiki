@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="16" height="16"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <path d="  M 8,3  L 8,0  L 7,0  L 7,3  Z  " style="fill:rgb(76, 76, 76); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 8,5  L 7,5  L 7,6  L 8,6  Z  " style="fill:rgb(76, 76, 76); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 7,8  L 7,9  L 8,9  L 8,8  Z  " style="fill:rgb(76, 76, 76); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 7,16  L 8,16  L 8,10  L 7,10  Z  " style="fill:rgb(76, 76, 76); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 8,5  L 9,5  L 9,4  L 8,4  Z  " style="fill:rgb(76, 76, 76); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 9,2  L 8,2  L 8,3  L 7,3  L 7,5  L 8,5  L 8,4  L 9,4  Z  " style="fill:rgb(73, 73, 73); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 7,8  L 8,8  L 8,6  L 7,6  Z  " style="fill:rgb(73, 73, 73); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 8,10  L 8,9  L 7,9  L 7,10  Z  " style="fill:rgb(73, 73, 73); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 8,0  L 8,1  L 9,1  L 9,0  Z  " style="fill:rgb(73, 73, 73); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 9,11  L 9,10  L 8,10  L 8,11  Z  " style="fill:rgb(73, 73, 73); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 9,12  L 8,12  L 8,14  L 9,14  Z  " style="fill:rgb(73, 73, 73); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 9,2  L 9,1  L 8,1  L 8,2  Z  " style="fill:rgb(71, 71, 71); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 8,10  L 9,10  L 9,5  L 8,5  Z  " style="fill:rgb(71, 71, 71); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 8,12  L 9,12  L 9,11  L 8,11  Z  " style="fill:rgb(71, 71, 71); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 8,14  L 8,15  L 9,15  L 9,14  Z  " style="fill:rgb(71, 71, 71); fill-opacity:0.902; stroke:none;" />
+ <path d="  M 9,15  L 8,15  L 8,16  L 9,16  Z  " style="fill:rgb(74, 74, 74); fill-opacity:0.902; stroke:none;" />
+</svg>

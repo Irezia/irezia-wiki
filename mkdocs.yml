@@ -2,7 +2,7 @@ site_name: Irezia - Wiki
 repo_name: Irezia-Wiki on GitHub
 edit_uri: edit/main/docs/src/markdown
 repo_url: https://github.com/superhize/irezia-wiki
-copyright: '© 2021  Irezia'
+copyright: "© 2022  Irezia"
 docs_dir: docs/src/markdown
 theme:
   name: material
@@ -17,97 +17,88 @@ theme:
     text: Roboto
     code: Roboto Mono
   features:
-    - navigation.tabs
-    - navigation.top
-    - navigation.instant
     - content.code.annotate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.share
+    - navigation.indexes
+    - search.suggest
 nav:
-  - 'Accueil':
-    - 'Bienvenue': index.md
-    - 'Systèmes principaux':
-      - 'Quêtes': quete.md
-      - 'Skills': skills.md
-      - 'Collections': collections.md
-      - 'Enchantements': enchant.md
-      - 'Métiers': jobs.md
-    - 'Systèmes secondaires':
-      - 'Audio': audio.md
-      - 'Artéfacts': artefact.md
-      - 'Advanced Achievement': aach.md
-      - 'TimedQuestion': timedquestion.md
-    - 'Cartes':
-      - 'Villes': villes.md
-      - 'Map ressources': ressources.md
-    - 'Commerce':
-      - 'Hôtel de ventes': hdv.md
-      - 'Banque': banque.md
-    - 'Site':
-      - 'Vote': vote.md
-      - 'Boutique': boutique.md
-      - 'Contribuer au Wiki': contribuer.md
-    - 'Minecraft':
-      - 'Optimiser Minecraft': optimiser.md
-  - 'Systèmes principaux':
-    - 'Quêtes': quete.md
-    - 'Skills': skills.md
-    - 'Collections': collections.md
-    - 'Enchantements': enchant.md
-    - 'Métiers': jobs.md
-  - 'Systèmes secondaires':
-    - 'Audio': audio.md
-    - 'Artéfacts': artefact.md
-    - 'Advanced Achievement': aach.md
-    - 'TimedQuestion': timedquestion.md
-  - 'Cartes':
-    - 'Villes': villes.md
-    - 'Map ressources': ressources.md
-  - 'Commerce':
-    - 'Hôtel de ventes': hdv.md
-    - 'Banque': banque.md
-  - 'Site':
-    - 'Vote': vote.md
-    - 'Boutique': boutique.md
-    - 'Contribuer au Wiki': contribuer.md
-  - 'Minecraft':
-    - 'Optimiser Minecraft': optimiser.md
-  
-    
+  - "Accueil":
+      - "Bienvenue": "index.md"
+      - "Systèmes principaux":
+          - "Quêtes": quete.md
+          - "Skills": skills.md
+          - "Collections": collections.md
+          - "Enchantements": enchant.md
+          - "Métiers": jobs.md
+      - "Systèmes secondaires":
+          - "Audio": audio.md
+          - "Artéfacts": artefact.md
+          - "Advanced Achievement": aach.md
+          - "TimedQuestion": timedquestion.md
+      - "Cartes":
+          - "Villes": villes.md
+          - "Map ressources": ressources.md
+      - "Commerce":
+          - "Hôtel de ventes": hdv.md
+          - "Banque": banque.md
+      - "Site":
+          - "Vote": vote.md
+          - "Boutique": boutique.md
+          - "Contribuer au Wiki": contribuer.md
+      - "Minecraft":
+          - "Optimiser Minecraft": optimiser.md
+      - "Serveur":
+          - "Avertissement de durabilité": serveur/durability.md
+  - "Systèmes principaux":
+      - "Quêtes": quete.md
+      - "Skills": skills.md
+      - "Collections": collections.md
+      - "Enchantements": enchant.md
+      - "Métiers": jobs.md
+  - "Systèmes secondaires":
+      - "Audio": audio.md
+      - "Artéfacts": artefact.md
+      - "Advanced Achievement": aach.md
+      - "TimedQuestion": timedquestion.md
+  - "Cartes":
+      - "Villes": villes.md
+      - "Map ressources": ressources.md
+  - "Commerce":
+      - "Hôtel de ventes": hdv.md
+      - "Banque": banque.md
+  - "Site":
+      - "Vote": vote.md
+      - "Boutique": boutique.md
+      - "Contribuer au Wiki": contribuer.md
+  - "Minecraft":
+      - "Optimiser Minecraft": optimiser.md
+  - "Serveur":
+      - "Avertissement de durabilité": serveur/durability.md
+
 markdown_extensions:
   - def_list
-  - pymdownx.superfences:
-  - pymdownx.snippets:
+  - pymdownx.superfences
+  - pymdownx.snippets
   - toc:
-      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+      slugify:
+        !!python/object/apply:pymdownx.slugs.slugify { kwds: { case: lower } }
       permalink: true
-  - admonition:
-  - smarty:
-      smart_quotes: false
-  - pymdownx.betterem:
-  - attr_list:
-  - def_list:
-  - tables:
-  - abbr:
-  - footnotes:
-  - md_in_html:
-  - pymdownx.highlight:
-      extend_pygments_lang:
-        - name: php-inline
-          lang: php
-          options:
-            startinline: true
-        - name: pycon3
-          lang: pycon
-          options:
-            python3: true
-      linenums_style: pymdownx-inline
-  - pymdownx.inlinehilite:
-      custom_inline:
-        - name: math
-          class: arithmatex
-          format: !!python/object/apply:pymdownx.arithmatex.arithmatex_inline_format {kwds: {mode: generic}}
-  - pymdownx.tilde:
-  - pymdownx.caret:
-  - pymdownx.smartsymbols:
+  - admonition
+  - pymdownx.smartsymbols
+  - pymdownx.betterem
+  - attr_list
+  - tables
+  - abbr
+  - footnotes
+  - md_in_html
+  - pymdownx.highlight
+  - pymdownx.tilde
+  - pymdownx.caret
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -119,18 +110,18 @@ markdown_extensions:
       nbsp: True
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.progressbar:
+  - pymdownx.progressbar
   - pymdownx.arithmatex:
       generic: true
-      block_tag: 'pre'
-  - pymdownx.mark:
+      block_tag: "pre"
+  - pymdownx.mark
   - pymdownx.striphtml:
   - pymdownx.keys:
       separator: "\uff0b"
-  - pymdownx.details:
+  - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.saneheaders:
+  - pymdownx.saneheaders
 
 extra:
   disqus: irezia
@@ -143,7 +134,7 @@ extra_css:
 extra_javascript:
   - assets/pymdownx-extras/extra-loader.js
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
- # - assets/js//tablesort.js
+  # - assets/js//tablesort.js
 plugins:
   - search
   - git-revision-date-localized

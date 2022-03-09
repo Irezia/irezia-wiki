@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="64" height="64"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <path d="  M 31,29  L 30,29  L 30,31  L 31,31  Z  " style="fill:rgb(61, 61, 61); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,31  L 31,31  L 31,32  L 32,32  Z  " style="fill:rgb(61, 61, 61); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,32  L 32,34  L 33,34  L 33,33  L 35,33  L 35,31  L 34,31  L 34,32  Z  " style="fill:rgb(61, 61, 61); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 30,31  L 30,32  L 31,32  L 31,31  Z  " style="fill:rgb(155, 155, 155); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 31,32  L 31,33  L 32,33  L 32,32  Z  " style="fill:rgb(155, 155, 155); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 32,34  L 32,35  L 33,35  L 33,34  Z  " style="fill:rgb(155, 155, 155); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,34  L 35,33  L 33,33  L 33,34  Z  " style="fill:rgb(155, 155, 155); fill-opacity:1.000; stroke:none;" />
+</svg>

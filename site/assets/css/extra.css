@@ -1,0 +1,145 @@
+.ir-container {
+    margin: 5px 5px 0 0;
+    overflow: auto;
+}
+
+.ir-thumb-r {
+    float: right
+}
+
+.ir-thumb-l {
+    float: left;
+    padding-right: 15px;
+}
+
+.ir-thumb img {
+    display: block
+}
+
+.ir-content {
+    margin-right: 180px
+}
+
+.ir-content-l {
+    margin-left: 180px;
+    margin-right: 10px
+}
+
+.ir-title {
+    font-weight: bold;
+    font-size: 200%;
+    padding: 9px;
+    background: #ccc
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    font-family: sans-serif;
+}
+
+.paragraph {
+    display: flex;
+    /* display: flex; */
+    /* width: 100%; */
+    height: 100px;
+    align-items: center;
+    /* justify-content: center; */
+    /* word-break: keep-all; */
+}
+
+.content {
+    padding: 20px;
+}
+
+.title {
+    font-size: 24px;
+    color: #222;
+    line-height: 24px;
+}
+
+span.v {
+    display: flex;
+    height: 100px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+v {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    justify-content: left;
+}
+
+.r1 {
+    color: #CD5C5C;
+}
+
+.r2 {
+    color: #ad2828;
+}
+
+.r3 {
+    color: #df1616;
+}
+
+.md-grid {
+    max-width: 1500px;
+}
+
+
+/* .md-typeset :is(ul, ol) li:last-child {
+    margin-bottom: 12px;
+}
+
+.md-typeset :is(ul, ol) li {
+    margin-bottom: -7.5px;
+    margin-left: 50px;
+}
+
+#wrapper ul {
+    list-style-type: symbols();
+    list-style-position: outside;
+    align-content: start;
+} */
+
+.md-typeset table:not([class]) :is(th, td)>:last-child {
+    margin-bottom: 10px;
+}
+
+.md-typeset table:not([class]) :is(th, td)>:first-child {
+    margin-top: 3px;
+}
+
+.md-typeset {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: .8rem;
+    line-height: 23.6px;
+}
+
+.md-typeset code {
+    background-color: none;
+    border-radius: .1rem;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    font-size: .85em;
+    padding: 0 .2941176471em;
+    word-break: break-word;
+}
+
+.md-typeset>div.enchants h2 {
+    font-size: 1.5625em;
+    line-height: 1.4;
+    margin: -0.2em 0px -0.70em;
+}
+
+.md-typeset>div.skill {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: .8rem;
+    line-height: 18.6px;
+}

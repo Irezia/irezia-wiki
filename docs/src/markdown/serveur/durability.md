@@ -7,14 +7,14 @@ L'avertissement de durabilité vous permet de recevoir une alert lors ce qu'un d
 Il existe 4 commandes que vous pouvez utiliser.  
 
 <div class="annotate" markdown>
-`/durability toggle` - Vous permet d'activer/désactiver la fonctionnalité.  
+`/irdurability toggle` - Vous permet d'activer/désactiver la fonctionnalité.  
 
-`/durability notify mode (1)` - Vous permet de changer la façon dont vous êtes alerté.  
+`/irdurability notify mode (1)` - Vous permet de changer la façon dont vous êtes alerté.  
 
-`/durability setmode mode (2)` - Vous permet de choisir si vous voulez être alerté quand votre objet 
+`/irdurability setmode mode (2)` - Vous permet de choisir si vous voulez être alerté quand votre objet 
 descend en dessous de X durabilité ou si votre object descend en dessous de X% de durabilité.  
 
-`/durability set mode (3) value (4)` - Vous permet de définir les valeur pour chaque mode.  
+`/irdurability set mode (3) value (4)` - Vous permet de définir les valeur pour chaque mode.  
 
 </div>
 

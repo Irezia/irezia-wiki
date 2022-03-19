@@ -8,7 +8,19 @@ theme:
   name: material
   custom_dir: docs/theme
   icon:
-    logo: material/book-open-page-variant
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
   palette:
     scheme: dracula
     primary: deep purple
@@ -34,6 +46,7 @@ nav:
           - "Collections": collections.md
           - "Enchantements": enchant.md
           - "Métiers": jobs.md
+          - "Minerais": minerais.md
       - "Systèmes secondaires":
           - "Audio": audio.md
           - "Artéfacts": artefact.md
@@ -59,6 +72,7 @@ nav:
       - "Collections": collections.md
       - "Enchantements": enchant.md
       - "Métiers": jobs.md
+      - "Minerais": minerais.md
   - "Systèmes secondaires":
       - "Audio": audio.md
       - "Artéfacts": artefact.md
@@ -81,7 +95,11 @@ nav:
 
 markdown_extensions:
   - def_list
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.snippets
   - toc:
       slugify:
@@ -127,6 +145,20 @@ extra:
   analytics:
     provider: google
     property: G-ZWHE15VHDT
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target=_blank>feedback form</a>.
 extra_css:
   - assets/pymdownx-extras/extra.css
   - assets/css/extra.css?v=4

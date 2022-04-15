@@ -47,6 +47,7 @@ nav:
           - "Enchantements": enchant.md
           - "Métiers": jobs.md
           - "Minerais": minerais.md
+          - "Villes": objvilles.md
       - "Systèmes secondaires":
           - "Audio": audio.md
           - "Artéfacts": artefact.md
@@ -73,6 +74,7 @@ nav:
       - "Enchantements": enchant.md
       - "Métiers": jobs.md
       - "Minerais": minerais.md
+      - "Villes": objvilles.md
   - "Systèmes secondaires":
       - "Audio": audio.md
       - "Artéfacts": artefact.md
@@ -94,6 +96,7 @@ nav:
       - "Avertissement de durabilité": serveur/durability.md
 
 markdown_extensions:
+  - lightgallery
   - def_list
   - pymdownx.superfences:
       custom_fences:

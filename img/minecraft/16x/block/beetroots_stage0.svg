@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="16" height="16"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <path d="  M 3,14  L 2,14  L 2,15  L 3,15  Z  " style="fill:rgb(74, 143, 40); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 3,14  L 4,14  L 4,13  L 3,13  Z  " style="fill:rgb(74, 143, 40); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 6,13  L 6,14  L 7,14  L 7,13  Z  " style="fill:rgb(74, 143, 40); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,14  L 8,15  L 9,15  L 9,14  Z  " style="fill:rgb(74, 143, 40); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,16  L 12,15  L 11,15  L 11,16  Z  " style="fill:rgb(74, 143, 40); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 13,15  L 13,14  L 12,14  L 12,15  Z  " style="fill:rgb(74, 143, 40); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 3,15  L 2,15  L 2,16  L 3,16  Z  " style="fill:rgb(43, 112, 42); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 7,16  L 8,16  L 8,15  L 7,15  Z  " style="fill:rgb(43, 112, 42); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 3,15  L 3,16  L 4,16  L 4,15  Z  " style="fill:rgb(38, 99, 37); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 6,16  L 7,16  L 7,15  L 6,15  Z  " style="fill:rgb(38, 99, 37); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,16  L 13,16  L 13,15  L 12,15  Z  " style="fill:rgb(38, 99, 37); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,12  L 6,12  L 6,13  L 8,13  Z  " style="fill:rgb(85, 171, 45); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 8,14  L 9,14  L 9,13  L 8,13  Z  " style="fill:rgb(85, 171, 45); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 12,13  L 11,13  L 11,14  L 12,14  Z  " style="fill:rgb(85, 171, 45); fill-opacity:1.000; stroke:none;" />
+</svg>

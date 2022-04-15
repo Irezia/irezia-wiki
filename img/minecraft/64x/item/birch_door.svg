@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="64" height="64"
+	 xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <path d="  M 15,8  L 14,8  L 14,16  L 15,16  Z  " style="fill:rgb(153, 144, 100); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,20  L 14,20  L 14,48  L 15,48  Z  " style="fill:rgb(153, 144, 100); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,61  L 15,52  L 14,52  L 14,62  L 52,62  L 52,61  Z  " style="fill:rgb(153, 144, 100); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 19,48  L 20,48  L 20,12  L 19,12  Z  " style="fill:rgb(153, 144, 100); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,11  L 20,12  L 44,12  L 44,11  Z  " style="fill:rgb(153, 144, 100); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 48,41  L 48,40  L 44,40  L 44,41  Z  " style="fill:rgb(153, 144, 100); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,16  L 14,20  L 15,20  L 15,16  Z  " style="fill:rgb(137, 122, 52); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 14,52  L 15,52  L 15,48  L 14,48  Z  " style="fill:rgb(137, 122, 52); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 15,8  L 15,61  L 52,61  L 52,8  Z  M 44,48  L 19,48  L 19,12  L 20,12  L 20,11  L 44,11  L 44,32  L 48,32  L 48,41  L 44,41  Z  " style="fill:rgb(214, 202, 140); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 26,12  L 20,12  L 20,18  L 26,18  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,25  L 24,25  L 24,19  L 20,19  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 24,26  L 20,26  L 20,31  L 24,31  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,32  L 20,41  L 24,41  L 24,32  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 20,42  L 20,48  L 22,48  L 22,47  L 29,47  L 29,48  L 31,48  L 31,42  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 25,19  L 25,31  L 31,31  L 31,24  L 33,24  L 33,31  L 39,31  L 39,19  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 39,32  L 25,32  L 25,41  L 39,41  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 27,18  L 37,18  L 37,12  L 27,12  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 33,42  L 33,48  L 35,48  L 35,47  L 42,47  L 42,48  L 44,48  L 44,42  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,12  L 38,12  L 38,18  L 44,18  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,25  L 44,19  L 40,19  L 40,25  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,26  L 40,26  L 40,31  L 44,31  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 40,41  L 44,41  L 44,32  L 40,32  Z  " style="fill:rgb(248, 244, 225); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,26  L 44,25  L 40,25  L 40,19  L 44,19  L 44,18  L 38,18  L 38,12  L 37,12  L 37,18  L 27,18  L 27,12  L 26,12  L 26,18  L 20,18  L 20,19  L 24,19  L 24,25  L 20,25  L 20,26  L 24,26  L 24,31  L 20,31  L 20,32  L 24,32  L 24,41  L 20,41  L 20,42  L 31,42  L 31,48  L 33,48  L 33,42  L 44,42  L 44,41  L 40,41  L 40,32  L 44,32  L 44,31  L 40,31  L 40,26  Z  M 25,19  L 39,19  L 39,31  L 33,31  L 33,24  L 31,24  L 31,31  L 25,31  Z  M 25,41  L 25,32  L 39,32  L 39,41  Z  " style="fill:rgb(219, 219, 219); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 29,48  L 29,47  L 22,47  L 22,48  Z  " style="fill:rgb(219, 219, 219); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 35,47  L 35,48  L 42,48  L 42,47  Z  " style="fill:rgb(219, 219, 219); fill-opacity:1.000; stroke:none;" />
+ <path d="  M 44,40  L 48,40  L 48,32  L 44,32  Z  " style="fill:rgb(175, 136, 80); fill-opacity:1.000; stroke:none;" />
+</svg>
